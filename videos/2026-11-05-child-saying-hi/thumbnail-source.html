@@ -1,0 +1,90 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@800;900&display=block" rel="stylesheet">
+<style>html,body{margin:0;padding:0;width:1280px;height:720px;overflow:hidden;background:#DDE7EF}
+text{font-family:'Nunito',sans-serif}</style></head><body>
+<svg id="s" width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E6EEF4"/><stop offset="1" stop-color="#D3DFE9"/></linearGradient>
+</defs>
+<rect width="1280" height="720" fill="url(#sky)"/>
+<!-- ground -->
+<rect y="560" width="1280" height="160" fill="#C5D5E2"/>
+<line x1="0" y1="560" x2="1280" y2="560" stroke="#A9BDCD" stroke-width="4"/>
+
+<!-- bench behind Om -->
+<g stroke="#1A1A1A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="#B08968">
+ <rect x="30" y="420" width="190" height="22" rx="6"/>
+ <rect x="30" y="470" width="190" height="22" rx="6"/>
+ <line x1="55" y1="492" x2="55" y2="590"/><line x1="195" y1="492" x2="195" y2="590"/>
+ <line x1="55" y1="442" x2="55" y2="470"/><line x1="195" y1="442" x2="195" y2="470"/>
+</g>
+
+<!-- far kids (faded) -->
+<g id="kids" opacity="0.55" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"></g>
+
+<!-- tape -->
+<g id="tape"></g>
+
+<!-- Om -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+ <!-- legs, knees in -->
+ <path d="M245 520 L262 580 L232 642" fill="none"/>
+ <path d="M285 520 L268 580 L298 642" fill="none"/>
+ <path d="M232 642 L205 646" fill="none"/><path d="M298 642 L325 646" fill="none"/>
+ <!-- shirt -->
+ <path d="M218 362 L312 362 L355 418 L322 438 L310 414 L315 525 L215 525 L220 414 L208 438 L175 418 Z" fill="#F08C00"/>
+ <!-- arms: hands clasped nervously at chest -->
+ <path d="M191 428 Q200 485 252 462" fill="none"/>
+ <path d="M339 428 Q330 485 278 462" fill="none"/>
+ <circle cx="256" cy="460" r="14" fill="#FAF7F2"/>
+ <circle cx="276" cy="460" r="14" fill="#FAF7F2"/>
+ <!-- neck -->
+ <line x1="265" y1="335" x2="265" y2="362"/>
+ <!-- head -->
+ <circle cx="265" cy="235" r="108" fill="#FAF7F2"/>
+ <!-- hair tuft -->
+ <path d="M245 130 L228 92" fill="none"/><path d="M265 127 L268 84" fill="none"/><path d="M285 130 L306 94" fill="none"/>
+ <!-- eyes: big, tiny pupils looking right -->
+ <circle cx="228" cy="238" r="34" fill="#FFFFFF" stroke-width="6"/>
+ <circle cx="306" cy="238" r="34" fill="#FFFFFF" stroke-width="6"/>
+ <circle cx="244" cy="240" r="9" fill="#1A1A1A" stroke="none"/>
+ <circle cx="322" cy="240" r="9" fill="#1A1A1A" stroke="none"/>
+ <!-- worried brows (inner ends up) -->
+ <path d="M192 196 L248 178" fill="none" stroke-width="8"/>
+ <path d="M286 178 L342 196" fill="none" stroke-width="8"/>
+ <!-- wobbly mouth -->
+ <path d="M238 304 q9 -10 18 0 t18 0 t18 0" fill="none" stroke-width="7"/>
+ <!-- sweat drops -->
+ <path d="M372 170 q-16 26 0 34 q16 -8 0 -34 Z" fill="#74C0FC" stroke-width="5"/>
+ <path d="M160 214 q-11 18 0 24 q11 -6 0 -24 Z" fill="#74C0FC" stroke-width="4"/>
+</g>
+
+<!-- headline -->
+<text x="1235" y="175" text-anchor="end" font-size="128" font-weight="900" fill="#1A1A1A" letter-spacing="-2">JUST SAY</text>
+<text x="1235" y="385" text-anchor="end" font-size="230" font-weight="900" fill="#F08C00" stroke="#1A1A1A" stroke-width="12" paint-order="stroke" stroke-linejoin="round" letter-spacing="-4">HI?</text>
+</svg>
+<script>
+const NS='http://www.w3.org/2000/svg';
+function el(t,a,p){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);p.appendChild(e);return e;}
+// tape: tapering from x0 to x1, centre line sloping slightly up
+const tape=document.getElementById('tape');
+const x0=340,x1=1010,y0=636,y1=590,h0=112,h1=28;
+const tp=x=>{const t=(x-x0)/(x1-x0);return (y0+(y1-y0)*t)-(h0+(h1-h0)*t)/2;};
+const bt=x=>{const t=(x-x0)/(x1-x0);return (y0+(y1-y0)*t)+(h0+(h1-h0)*t)/2;};
+el('path',{d:`M${x0} ${tp(x0)} L${x1} ${tp(x1)} L${x1} ${bt(x1)} L${x0} ${bt(x0)} Z`,fill:'#E03131',stroke:'#1A1A1A','stroke-width':6,'stroke-linejoin':'round'},tape);
+for(let x=x0+24;x<x1-6;x+=26){const t=(x-x0)/(x1-x0);const len=(h0+(h1-h0)*t)*((Math.round((x-x0-24)/26)%5===0)?0.24:0.13);
+ el('line',{x1:x,y1:tp(x)+4,x2:x,y2:tp(x)+4+len,stroke:'#FFFFFF','stroke-width':3.5,'stroke-linecap':'round'},tape);}
+const lx=575;const lab=el('text',{x:lx,y:(tp(lx)+bt(lx))/2+26,'text-anchor':'middle','font-size':70,'font-weight':900,fill:'#FFFFFF',stroke:'#1A1A1A','stroke-width':6,'paint-order':'stroke'},tape);lab.textContent='10 km';
+// kids
+const kids=document.getElementById('kids');const caps=['#E03131','#1C7ED6','#2F9E44','#7048E8','#0CA678'];
+const xs=[1040,1085,1135,1180,1228];
+xs.forEach((x,i)=>{const fy=592,hy=fy-78;const g=el('g',{},kids);
+ el('circle',{cx:x,cy:hy,r:12,fill:'#FAF7F2'},g);
+ el('path',{d:`M${x-12} ${hy-4} A12 12 0 0 1 ${x+12} ${hy-4} Z`,fill:caps[i],stroke:'#1A1A1A','stroke-width':3},g);
+ el('line',{x1:x,y1:hy+12,x2:x,y2:fy-30},g);
+ const s=i%2?1:-1;
+ el('path',{d:`M${x} ${hy+20} L${x-14*s} ${hy+36} M${x} ${hy+20} L${x+14*s} ${hy+10}`},g);
+ el('path',{d:`M${x} ${fy-30} L${x-12} ${fy} M${x} ${fy-30} L${x+13} ${fy-4}`},g);});
+el('circle',{cx:1110,cy:470,r:11,fill:'#FFD43B'},kids);
+el('path',{d:'M1062 495 Q1085 455 1100 468',stroke:'#1A1A1A','stroke-width':2.5,'stroke-dasharray':'4 6',fill:'none'},kids);
+</script></body></html>
