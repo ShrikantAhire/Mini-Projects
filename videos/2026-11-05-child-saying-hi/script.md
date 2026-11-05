@@ -1,207 +1,209 @@
-# "हाय" म्हणायला इतकं अवघड का जातं? | 10 मिनिटांची स्क्रिप्ट (मराठी)
+# Why is saying "hi" so hard for kids? | 10-minute script (English)
 
-**फॉरमॅट:** स्टिकमॅन ॲनिमेशन, मराठी व्हॉइसओव्हर (बोलीभाषेतली मराठी, गरजेपुरते इंग्लिश शब्द)
-**लांबी:** ~10 मिनिटं (व्हॉइसओव्हर ~1,030 शब्द, मिनिटाला ~105-110 शब्द आणि सीनमधले पॉझ धरून)
-**मुख्य पात्र:** ओम, 6 वर्षांचा स्टिकमॅन (पिवळा टी-शर्ट, मोठे डोळे)
-**मुख्य मुद्दा:** जे मूल स्वतःला स्वीकारत नाही, त्याला इतरांनी स्वीकारलेलं अनुभवणंही अवघड जातं.
+**Format:** stickman animation, English voiceover
+**Length:** ~10 minutes (voiceover ~1,270 words, read calmly at ~130-135 words per minute with short pauses)
+**Main character:** Om, a 6-year-old stickman (amber T-shirt, big eyes)
+**Core idea:** a child who hasn't learned to accept themselves finds it harder to feel accepted by others.
 
 ---
 
 ## [0:00-0:25] HOOK
 
 **VO:**
-पार्कमध्ये पाच मुलं बॉल खेळतायत.
-ओम सहा वर्षांचा आहे. तो बेंचजवळ उभा आहे.
-त्याला फक्त एक शब्द बोलायचाय. "हाय."
-त्याच्यात आणि त्या मुलांमध्ये दहा पावलांचं अंतर आहे.
-पण ओमच्या मनात हे अंतर दहा किलोमीटरचं आहे.
+Five kids are playing ball in the park.
+Om is six. He's standing by the bench.
+He wants to say one word. "Hi."
+He's ten steps away from them.
+In Om's head, those ten steps feel like ten kilometres.
 
-**VISUAL:** पार्क, पाच स्टिकमॅन मुलं बॉल खेळतायत. ओम बेंचजवळ, हात मागे बांधलेले. जमिनीवर "10 पावलं" लिहिलेली रेष दिसते, मग ती ताणली जाऊन "10 km" होते. ओमचा चेहरा छोटा होत जातो.
+**VISUAL:** Park, five stickman kids playing ball. Om by the bench, hands behind his back. A line of footprints on the ground reads "10 steps", then stretches into a red tape reading "10 km". Om shrinks a little.
 
 ---
 
-## [0:25-1:25] RELATE
+## [0:25-1:30] RELATE
 
 **VO:**
-तुम्ही पालक असाल तर हा सीन तुम्ही पाहिलाय.
-बर्थडे पार्टीत तुमचं मूल तुमच्या पायाला चिकटून उभं असतं.
-तुम्ही म्हणता, "जा ना, खेळ त्यांच्याबरोबर."
-ते मान हलवतं. जागचं हलत नाही.
-आणि आपण नकळत पाहुण्यांना सांगून टाकतो, "हा जरा लाजराच आहे."
+If you're a parent, you've seen this.
+At a birthday party, your child stays glued to your leg.
+You say, "Go on, go play with them."
+They shake their head and don't move.
+And without thinking, you tell the other parents, "Oh, he's a bit shy."
 
-तुम्ही पालक नसाल तरी हा सीन तुम्हाला माहितीये.
-कारण कधीतरी तो बेंचजवळचा मुलगा तुम्ही होतात.
-नवीन शाळा. नवीन वर्ग. सगळ्यांचे ग्रुप आधीच तयार.
-तुम्ही टिफिन उघडून एकटे बसलात, कारण जाऊन बोललो आणि त्यांनी दुर्लक्ष केलं तर काय, ही भीती होती.
+If you're not a parent, you still know this scene.
+At some point, you were the kid by the bench.
+Maybe it was a new school, where everyone already had their group.
+You ate lunch alone, because walking over felt riskier than sitting by yourself. What if they ignored you?
 
-मोठं झाल्यावरही हे पूर्ण संपत नाही.
-ऑफिसची पहिली मीटिंग, नवीन सोसायटी, एखादं नेटवर्किंग इव्हेंट.
-फरक इतकाच की आता आपण ते चेहऱ्यावर दिसू देत नाही.
+This doesn't fully go away when we grow up.
+It shows up at the first meeting in a new job, in a new apartment building, at a networking event.
+You rehearse your introduction in your head, and by the time you're ready, the moment has passed.
+We've just learned to keep it off our faces.
 
-**VISUAL:** स्प्लिट स्क्रीन. डावीकडे: बर्थडे पार्टी, मूल आईच्या पायामागे लपलेलं. उजवीकडे: वर्गात टिफिन घेऊन एकटा बसलेला मुलगा. मग तोच स्टिकमॅन मोठा होतो, सूट घालतो, ऑफिस मीटिंगमध्ये हसरा चेहरा लावतो, पण आतला छोटा स्टिकमॅन अजून कोपऱ्यात बसलेला दिसतो.
+**VISUAL:** Split screen. Left: a birthday party, a child hiding behind a parent's leg. Right: a kid eating lunch alone in a classroom. The kid grows into an adult in a tie at an office meeting, smiling, while a tiny version of him still sits in a corner inside his chest.
 
 ---
 
-## [1:25-2:35] ओमच्या डोक्यात काय चाललंय
+## [1:30-2:35] INSIDE OM'S HEAD
 
 **VO:**
-आता त्या दहा सेकंदात ओमच्या डोक्यात काय चाललंय ते बघू.
-"हे मला खेळायला घेतील का?"
-"मी काही चुकीचं बोललो तर हसतील का?"
-"मी यांचा फ्रेंड होऊ शकतो का?"
-आणि या सगळ्याच्या खाली एक प्रश्न असतो, जो त्याला शब्दांत सांगता येत नाही: "मी पुरेसा चांगला आहे का?"
+Let's look at what goes through Om's head in those ten seconds.
+"Will they let me play?"
+"If I say something wrong, will they laugh?"
+"Could I be their friend?"
+And under all of these sits a question he can't put into words: "Am I good enough?"
 
-मोठ्यांसाठी "हाय" म्हणणं दोन सेकंदांचं काम आहे.
-मुलासाठी ती एक रिस्क आहे.
-तो स्वतःला कुणासमोर तरी ठेवतोय, आणि समोरचा "हो" म्हणेल की "नाही", हे त्याच्या हातात नाही.
+For an adult, saying hi takes two seconds.
+For a child, it's a risk.
+He's putting himself in front of other people, and whether they say yes or no is out of his hands.
 
-लहान मूल "नाही" ऐकतं तेव्हा ते "आत्ता हा खेळ भरलाय" असं ऐकत नाही.
-ते "तू नको" असं ऐकतं.
-म्हणून त्याच्या मनाला वाटतं की न विचारलेलंच बरं. विचारलंच नाही तर नकारही मिळणार नाही.
+When a young child hears "no", they don't hear "the game is full right now."
+They hear "we don't want you."
+So the mind decides it's safer not to ask. If you never ask, nobody can turn you down.
 
-ओम दोन पावलं पुढे जातो. थांबतो. परत बेंचजवळ येतो.
+Om takes two steps forward, stops, and walks back to the bench.
 
-**VISUAL:** ओमच्या डोक्यावर विचारांचे बुडबुडे एकामागोमाग येतात. शेवटचा बुडबुडा मोठा, धूसर: "मी पुरेसा चांगला आहे का?" मग एक तराजू: एका बाजूला "हाय", दुसऱ्या बाजूला मोठा दगड "नकार". ओम दोन पावलं पुढे, मग मागे.
+**VISUAL:** Thought bubbles pop above Om one after another. The last one is large and foggy: "Am I good enough?" A balance scale: a small "Hi" on one side, a big rock labelled "Rejection" on the other. Om steps forward twice, then back.
 
 ---
 
-## [2:35-3:25] हा दोष नाही, स्वभाव आहे
+## [2:35-3:35] TEMPERAMENT, NOT A FLAW
 
 **VO:**
-पहिली गोष्ट क्लिअर करूया. असं होतंय म्हणजे मुलात काही प्रॉब्लेम आहे, असं नाही.
-हार्वर्डचे सायकॉलॉजिस्ट जेरोम केगन यांनी अनेक वर्षं लहान मुलांचा अभ्यास केला.
-त्यांना दिसलं की काही मुलं अगदी लहानपणापासून नवीन माणसं आणि नवीन जागांबद्दल जास्त सावध असतात.
-त्यांनी याला "बिहेवियरल इनहिबिशन" म्हटलं. सोप्या भाषेत, आधी बघायचं, मग जायचं.
-हा स्वभाव आहे, दोष नाही.
-आणि केगन यांच्या अभ्यासात हेही दिसलं की हा स्वभाव दगडावरची रेघ नसतो. वातावरण आणि घरचा आधार मिळाला तर बरीच मुलं हळूहळू मोकळी होतात.
+First, none of this means something is wrong with the child.
+Harvard psychologist Jerome Kagan spent decades studying young children.
+He found that some children, right from infancy, are more cautious around new people and new places.
+He called it behavioural inhibition. In plain words: look first, then join.
+That's temperament, and there's nothing broken about it.
+Earlier, in the New York Longitudinal Study, psychiatrists Alexander Thomas and Stella Chess described a similar group of children as "slow to warm up". Give them time to watch, and many of them join in on their own.
+Kagan's work also showed it isn't set in stone. With a supportive environment, many of these children open up over time.
 
-स्वभावाबरोबर अजून एक गोष्ट काम करते: मूल स्वतःबद्दल काय विचार करतं.
+Temperament is one part of the story. The other part is what the child believes about themselves.
 
-**VISUAL:** दोन बाळं. एक लगेच खेळण्याकडे रांगत जातं. दुसरं आधी आईकडे बघतं, मग हळूच जातं. स्क्रीनवर टेक्स्ट: "आधी बघायचं, मग जायचं." मग दुसऱ्या बाळाचा स्टिकमॅन मोठा होत जातो आणि हळूहळू ग्रुपमध्ये मिसळतो.
+**VISUAL:** Two babies. One crawls straight to a toy. The other looks back at their mother first, then crawls slowly. On-screen text: "Look first, then join." The second baby grows up and gradually joins a group.
 
 ---
 
-## [3:25-4:40] PROOF 1: लायकिंग गॅप
+## [3:35-4:45] PROOF 1: THE LIKING GAP
 
 **VO:**
-2018 मध्ये एरिका बूथबी आणि त्यांच्या टीमने मोठ्या माणसांवर एक अभ्यास केला.
-दोन अनोळखी माणसं गप्पा मारतात. नंतर प्रत्येकाला विचारलं जातं, "समोरच्याला तुम्ही किती आवडलात?"
-बहुतेक लोकांनी हा आकडा कमी सांगितला. प्रत्यक्षात समोरच्याला ते जास्त आवडले होते.
-याला "लायकिंग गॅप" म्हणतात.
+In 2018, Erica Boothby and her colleagues studied conversations between strangers.
+Two people chat for a few minutes. Then each one is asked, "How much did the other person like you?"
+Most people guessed too low. Their partners actually liked them more than they thought.
+Researchers call this the liking gap.
 
-2021 मध्ये वूटर वुल्फ, नाफे आणि मायकल टोमासेलो यांनी हाच प्रयोग चार ते अकरा वर्षांच्या मुलांवर केला.
-चार वर्षांच्या मुलांमध्ये हा गॅप दिसला नाही. त्यांना वाटतं, मला सगळेच आवडतात आणि मीही सगळ्यांना आवडतो.
-हा गॅप साधारण पाच वर्षांच्या वयात सुरू होतो. याच वयात मुलं "लोक माझ्याबद्दल काय विचार करतात" याचा विचार करायला लागतात.
-आणि वय वाढतं तसा हा गॅप मोठा होत जातो.
+In 2021, Wouter Wolf, working with Michael Tomasello, ran a similar study with children aged four to eleven.
+The four-year-olds didn't show the gap. They assumed the other kid liked them just as much as they liked the other kid.
+The gap appeared at around age five, which is the age when children start to care what others think of them.
+And it grew wider as the children got older.
 
-म्हणजे ओमला जे वाटतंय की "ते मला घेणार नाहीत", ते बऱ्याचदा सत्य नसतं.
-तो त्याच्या मनातला अंदाज असतो, आणि तो अंदाज बहुतेक वेळा स्वतःच्या विरोधात असतो.
+So when Om thinks, "They won't let me in," it's often not true.
+It's a guess, and the guess is usually stacked against him.
 
-**VISUAL:** दोन स्टिकमॅन बोलतायत. दोघांच्या डोक्यावर मीटर. "मला तो किती आवडला": 8/10. "मी त्याला किती आवडलो": 5/10. दोन्ही मीटरमधली मोकळी जागा लाल रंगात चमकते: "लायकिंग गॅप". मग वयाची टाइमलाइन: 4 वर्षं (गॅप नाही), 5 वर्षं (गॅप सुरू), 11 वर्षं (गॅप मोठा).
+**VISUAL:** Two stickmen chatting, a gauge above each head. "How much I liked them": 8/10. "How much they liked me": 5/10. The space between the needles glows red: "The liking gap". Then an age timeline: 4 (no gap), 5 (gap starts), 11 (wider gap).
 
 ---
 
-## [4:40-6:00] PROOF 2: नकाराची भीती स्वतःच खरी कशी ठरते
+## [4:45-6:00] PROOF 2: HOW THE FEAR OF REJECTION COMES TRUE
 
 **VO:**
-हा अंदाज कधी कधी स्वतःच खरा ठरतो.
-कोलंबिया युनिव्हर्सिटीच्या सायकॉलॉजिस्ट जेराल्डिन डाउनी यांनी याला "रिजेक्शन सेन्सिटिव्हिटी" म्हटलं.
-म्हणजे नकार मिळेल याची सतत भीती, आणि छोट्याशा संकेतातही नकार दिसणं.
+Sometimes that guess makes itself come true.
+Columbia University psychologist Geraldine Downey called this rejection sensitivity: anxiously expecting rejection, and spotting it in the smallest signals.
 
-1998 मध्ये त्यांनी पाचवी ते सातवीतल्या मुलांवर एक प्रयोग केला.
-मुलांना सांगितलं की तुमच्या वर्गातल्या एका मित्राला इंटरव्ह्यूसाठी बोलवा.
-थोड्या वेळाने त्यांना सांगितलं गेलं की तो मित्र यायला तयार नाही. का, ते सांगितलं नाही.
-ज्या मुलांना आधीपासूनच नकाराची भीती जास्त होती, ती या साध्याशा, अस्पष्ट नकाराने जास्त अस्वस्थ झाली.
-आणि शिक्षकांच्या रिपोर्टनुसार, अशा मुलांना वर्षभरानंतर मित्रांच्या बाबतीत जास्त अडचणी आल्या.
+In 1998, her team studied children in fifth to seventh grade.
+Each child was asked to invite a classmate to join them for an interview.
+A little later, they were told the classmate didn't want to come. No reason was given.
+Children who expected rejection, and expected to feel angry about it, were more upset by this small, unclear "no".
+And according to their teachers, the kids high in rejection sensitivity had more trouble with peers a year later.
 
-हे एक चक्र आहे.
-"ते मला नाकारतील" असं वाटलं की मूल लांब राहतं, किंवा खूप ताणून, अवघडून वागतं.
-समोरच्या मुलांना ते दूरचं वाटतं, म्हणून ते त्याला बोलवत नाहीत.
-आणि मुलाच्या मनात पक्कं होतं, "बघ, मी म्हटलं होतं ना."
-नकार बाहेरून येण्याआधी, त्याने स्वतःला मनात आधीच नाकारलेलं असतं.
+It works like a loop.
+A child who thinks "they'll reject me" hangs back, or acts stiff and awkward.
+The other kids read that as distance, so they don't invite them.
+And the child concludes, "See? I knew it."
+Before anyone else turned them down, they had already turned themselves down.
 
-**VISUAL:** गोल फिरणारं चक्र, चार टप्पे: "ते मला नाकारतील" → "मी लांब राहतो" → "ते बोलवत नाहीत" → "बघ, मी म्हटलं होतं". ओम चक्रात अडकलेला, प्रत्येक फेरीत थोडा छोटा होतो. शेवटच्या ओळीवर ओम स्वतःच्या समोर एक "NO" चा बोर्ड धरून उभा दिसतो.
+**VISUAL:** A circular loop with four steps: "They'll reject me" → "I hang back" → "They don't invite me" → "See? I knew it." Om is stuck in the loop and shrinks a little each lap. On the last line, Om holds up a red "NO" sign facing himself.
 
 ---
 
-## [6:00-7:45] स्वतःला स्वीकारणं आणि इतरांनी स्वीकारणं
+## [6:00-7:40] ACCEPTING YOURSELF AND BEING ACCEPTED
 
 **VO:**
-इथे दोन गोष्टी एकमेकांना जोडलेल्या आहेत: मूल स्वतःला कसं पाहतं, आणि इतर त्याला कसं स्वीकारतात.
-1995 मध्ये मार्क लिअरी या सायकॉलॉजिस्टने "सोशिओमीटर थिअरी" मांडली.
-त्यांच्या मते आपला आत्मसन्मान एका मीटरसारखा काम करतो. तो सतत मोजत असतो, "मी लोकांमध्ये स्वीकारला जातोय का?"
+Two things are tied together here: how a child sees themselves, and how accepted they feel by others.
+In 1995, psychologist Mark Leary proposed sociometer theory.
+His idea is that self-esteem works like a meter. It keeps checking one thing: "Am I accepted?"
 
-हा मीटर दोन्ही बाजूंनी चालतो.
-लोकांनी स्वीकारलं की मीटर वर जातो.
-आणि मीटर आधीच खाली असेल, तर मूल प्रत्येक शांततेत, प्रत्येक दुर्लक्षात नकार वाचतं.
+The meter works in both directions.
+When people accept you, the needle rises.
+When the needle is already low, a child reads rejection into every silence and every glance away.
 
-ज्या मुलाने मनापासून मानलंय की "मी जसा आहे तसा ठीक आहे", त्याच्यासाठी "नाही" म्हणजे फक्त एका खेळाचा "नाही". तो दुसऱ्या ग्रुपकडे जातो.
-ज्याने स्वतःला स्वीकारलेलं नाही, त्याच्यासाठी प्रत्येक "नाही" हा त्याच्याबद्दलचा निकाल असतो.
+A child who believes "I'm okay as I am" hears "no" as a no to one game, and walks over to another group.
+A child who hasn't accepted themselves hears every "no" as a verdict on who they are.
 
-याला एका आरशासारखं बघा.
-मूल इतरांकडे बघतं तेव्हा त्याला स्वतःबद्दलचं मतच परत दिसतं.
-आरसा धूसर असेल, तर समोरच्याचं साधं हसणंसुद्धा थट्टेसारखं वाटतं.
+Think of it as a mirror.
+When a child looks at other kids, they see their own opinion of themselves reflected back.
+If the mirror is foggy, even a friendly smile can look like teasing.
 
-हा आरसा सुरुवातीला मूल स्वतः साफ करू शकत नाही. ते काम घरचे लोक करतात.
-कार्ल रॉजर्स याला "अनकंडिशनल पॉझिटिव्ह रिगार्ड" म्हणायचे. म्हणजे मुलाला हे जाणवणं की त्याच्यावरचं प्रेम मार्क्स, परफॉर्मन्स किंवा तो किती बोलका आहे यावर अवलंबून नाही.
-असं प्रेम मिळालेलं मूल बाहेरचं जग एक्सप्लोर करायला जास्त तयार असतं, कारण परत यायला एक सुरक्षित जागा आहे हे त्याला माहीत असतं. अटॅचमेंट रिसर्चमध्ये याला "सिक्युअर बेस" म्हणतात.
+A young child can't clean that mirror alone. That job starts at home.
+Carl Rogers called it unconditional positive regard: a child feeling loved regardless of their marks, their performance, or how talkative they are.
+A child who feels that kind of love is more willing to go out and explore, because they know there's a safe place to come back to. Attachment researchers call this a secure base.
 
-**VISUAL:** ओमच्या छातीवर एक मीटर, सुई खाली. मग एक आरसा. धूसर आरशात हसणारी मुलं वाकड्या, थट्टा करणाऱ्या चेहऱ्यांसारखी दिसतात. आई-बाबा स्टिकमॅन कापडाने आरसा पुसतात. स्वच्छ आरशात तीच मुलं नुसती हसताना दिसतात. शेवटी घर एक चमकणारा "बेस", आणि ओम तिथून बाहेर पडतो.
+**VISUAL:** A gauge on Om's chest with the needle low. A mirror: in the foggy mirror, smiling kids look like they're mocking him. Mom and Dad wipe the mirror with a cloth, and the kids are simply smiling. Home glows as a "secure base" and Om walks out from it.
 
 ---
 
-## [7:45-9:25] पालक म्हणून काय करता येईल
+## [7:40-9:22] WHAT PARENTS CAN DO
 
 **VO:**
-पालक म्हणून तीन गोष्टी आजपासून करता येतील.
+Parents can start three things today.
 
-एक. मुलाला लेबल लावू नका.
-"हा लाजरा आहे" हे वाक्य मूल वारंवार ऐकतं, तेव्हा ते त्याची ओळख बनू शकतं.
-त्याऐवजी म्हणा, "त्याला आधी थोडा वेळ बघायला आवडतं." हे खरंही आहे, आणि त्यात दोषही नाही.
+One: drop the label.
+When a child keeps hearing "he's shy", it can become part of who they think they are.
+Try saying, "He likes to watch for a bit first." That's true, and it carries no blame.
 
-दोन. "हाय" छोट्या स्टेप्समध्ये शिकवा.
-घरी रोल प्ले करा. तुम्ही नवीन मुलगा बना, आणि मूल स्वतःची ओळख करून देईल.
-"माझं नाव ओम. मला बॉल खेळायला आवडतं. मी पण खेळू का?"
-तीन वाक्यं. घरी दहा वेळा म्हटली की बाहेर एकदा म्हणणं सोपं जातं.
-आणि लगेच मोठ्या ग्रुपमध्ये ढकलू नका. आधी एका मुलाशी ओळख, मग ग्रुप.
+Two: teach "hi" in small steps.
+Role-play at home. You play the new kid, and your child introduces themselves.
+"Hi, I'm Om. I like playing ball. Can I play too?"
+That's three sentences. Once they've said them ten times at home, saying them once at the park gets easier.
+And don't push them straight into a big group. Start with one child, then the group. A playdate at home with one friend is a good first step.
 
-तीन. प्रयत्नाचं कौतुक करा, निकालाचं नाही.
-मूल जाऊन हाय म्हणालं आणि समोरच्यांनी खेळायला घेतलं नाही, तरी म्हणा, "तू स्वतः जाऊन बोललास, हे मला खूप आवडलं."
-यातून मुलाला कळतं की त्याची किंमत समोरच्याच्या "हो" वर ठरत नाही.
+Three: praise the attempt, not the outcome.
+If your child says hi and the other kids don't let them in, still say, "You went up and talked to them yourself. I loved that."
+That teaches them their worth doesn't depend on someone else's yes.
 
-आणि मुलं आपल्याला बघून शिकतात.
-तुम्ही नवीन लोकांशी कसं बोलता, स्वतःच्या चुकांबद्दल कसं बोलता, ते मूल रोज बघतं.
-तुम्ही स्वतःला स्वीकारलं, तर त्याला ते शिकवणं खूप सोपं जातं.
+Kids also learn by watching you.
+They notice how you talk to new people, and how you talk about your own mistakes.
+When you accept yourself, it's much easier to teach them the same.
 
-भीती खूप जास्त असेल, मूल शाळेत जायला सतत घाबरत असेल किंवा रोजच्या आयुष्यावर परिणाम होत असेल, तर चाइल्ड सायकॉलॉजिस्टशी नक्की बोला.
+If the fear is intense, if your child keeps dreading school or it's affecting daily life, talk to a child psychologist.
 
-**VISUAL:** तीन कार्ड्स एकेक करून येतात.
-1: "लाजरा" लिहिलेलं लेबल ओमच्या कपाळावरून काढून टाकलं जातं.
-2: घरात सोफ्यावर बाबा "नवीन मुलगा" बनलेत, ओम हात पुढे करून ओळख करून देतो. मग पार्कमध्ये एकाच मुलाशी बोलताना ओम.
-3: ओम नकार मिळून परत येतो, आई त्याला हाय-फाइव्ह देते. स्क्रीनवर: "प्रयत्न > निकाल".
-शेवटी आई-बाबा स्वतः नवीन शेजाऱ्यांशी हसून बोलतायत, ओम मागून बघतोय.
+**VISUAL:** Three cards appear one at a time.
+1: A red "SHY" label is peeled off Om's forehead.
+2: Dad plays "the new kid" on the sofa, Om holds out his hand and introduces himself. Then Om talks to one kid at the park.
+3: Om comes back after a "no" and Mom gives him a high-five. On-screen: "Attempt > Outcome".
+Finally, Mom and Dad chat warmly with new neighbours while Om watches.
 
 ---
 
-## [9:25-10:00] CLOSE
+## [9:22-10:00] CLOSE
 
 **VO:**
-तोच पार्क. तोच बेंच. तीच दहा पावलं.
-ओम पुढे जातो. आवाज थोडा थरथरतो.
-"हाय. मी ओम. मी पण खेळू का?"
-एक मुलगा बॉल त्याच्याकडे फेकतो.
-ते दहा किलोमीटरचं अंतर दहा पावलांचंच होतं.
+Back at the park, Om is standing by the same bench, ten steps from the game.
+He walks forward. His voice shakes a little.
+"Hi. I'm Om. Can I play too?"
+One of the kids throws him the ball.
+Those ten kilometres were only ten steps after all.
 
-तुमच्या ओळखीत एखादा ओम असेल, तर हा व्हिडिओ त्याच्या आई-बाबांना पाठवा.
-आणि मोठ्या माणसांमधल्या लायकिंग गॅपवर वेगळा व्हिडिओ हवा असेल, तर कमेंटमध्ये सांगा.
+If you know a parent with an Om at home, send this to them.
+And if you'd like a separate video on the liking gap in adults, tell me in the comments.
 
-**VISUAL:** ओपनिंगचा सीन परत. "10 km" ची रेष आकसून परत "10 पावलं" होते. ओम चालत जातो, बॉल त्याच्याकडे येतो, तो पकडतो आणि हसतो. कॅमेरा वर जातो, सहा मुलं एकत्र खेळतायत.
+**VISUAL:** The opening shot returns. The "10 km" tape shrinks back to "10 steps". Om walks over, the ball comes to him, he catches it and grins. The camera rises on six kids playing together.
 
 ---
 
-## सोर्सेस (डिस्क्रिप्शनमध्ये टाकण्यासाठी)
+## Sources (for the description)
 
 - Kagan, J., Reznick, J. S., & Snidman, N. (1988). Biological bases of childhood shyness. *Science*, 240, 167-171.
+- Thomas, A., & Chess, S. (1977). *Temperament and Development*. New York: Brunner/Mazel. ("Slow to warm up")
 - Boothby, E. J., Cooney, G., Sandstrom, G. M., & Clark, M. S. (2018). The liking gap in conversations. *Psychological Science*, 29(11).
 - Wolf, W., Nafe, A., & Tomasello, M. (2021). The development of the liking gap: Children older than 5 years think that partners evaluate them less positively than they evaluate their partners. *Psychological Science*, 32(5), 789-798.
 - Downey, G., Lebolt, A., Rincón, C., & Freitas, A. L. (1998). Rejection sensitivity and children's interpersonal difficulties. *Child Development*, 69(4), 1074-1091.
@@ -209,4 +211,4 @@
 - Rogers, C. (1959). A theory of therapy, personality and interpersonal relationships. (Unconditional positive regard)
 - Ainsworth, M. D. S., et al. (1978). *Patterns of Attachment*. (Secure base)
 
-**डिस्क्रिप्शन नोट:** मुलाची भीती खूप जास्त असेल किंवा रोजच्या आयुष्यावर परिणाम करत असेल, तर चाइल्ड सायकॉलॉजिस्ट किंवा काउन्सेलरचा सल्ला घ्या.
+**Description note:** if a child's fear is intense or affects daily life, talk to a child psychologist or counsellor.

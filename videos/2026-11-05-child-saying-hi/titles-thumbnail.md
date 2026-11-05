@@ -1,38 +1,38 @@
-# Titles आणि Thumbnail
+# Titles and thumbnail
 
 ## Titles (vidIQ score, long-form)
 
 | # | Title | Pattern | Score |
 |---|---|---|---|
-| 1 | **तुमचं मूल नवीन मुलांमध्ये का मिसळत नाही?** | Second person, प्रश्न | **82** |
-| 2 | मुलांना "हाय" म्हणायला इतकं अवघड का जातं? | प्रश्न | 72 |
-| 3 | लायकिंग गॅप: मुलं स्वतःला कमी का लेखतात? | Concept + payoff | 72 |
-| 4 | लाजऱ्या मुलांचं सायकॉलॉजी: एका "हाय" मागची भीती | The psychology of | 72 |
-| 5 | 10 पावलं, 10 किलोमीटर: मुलाच्या एका "हाय" मागचं अंतर | Number / curiosity | 71 |
+| 1 | **10 Steps Felt Like 10 Kilometres: A Shy Kid's Mind** | Number / curiosity | **94** |
+| 2 | Why Your Child Won't Join Other Kids | Second person | 91 |
+| 3 | Why Is Saying "Hi" So Hard for Kids? | Question | 89 |
+| 4 | The Liking Gap: Why Kids Think They're Less Liked | Named concept + payoff | 89 |
+| 5 | The Psychology of Shy Kids: The Fear Behind "Hi" | The psychology of | 81 |
 
-**Recommended:** #1. पालक जे सर्च करतात तो प्रश्न यात आहे, आणि vidIQ स्कोअरही सर्वात जास्त आहे.
-**नोट:** #2 ते #4 ला एकसारखा 72 स्कोअर मिळाला. यावरून vidIQ मराठी titles मधला फरक नीट ओळखत नाहीये असं दिसतं. स्कोअर फक्त दिशा दाखवणारा समजा.
+**Recommended:** #1. It scored highest, matches the video's opening and closing image, and pairs with thumbnail A.
+**Backup:** #2 is the closer match to what parents type into search. Use it if you'd rather chase search traffic than browse clicks.
 
 ---
 
 ## Thumbnail concepts
 
-### A (Recommended): दहा पावलं की दहा किलोमीटर
-- **पोझ आणि चेहरा:** ओम बेंचजवळ उभा. डोळे मोठे आणि घाबरलेले, कपाळावर घामाचा थेंब, दोन्ही हात शर्टचं टोक पिळतायत.
-- **सीन:** उजवीकडे दूर पाच मुलं बॉल खेळतायत. ओम आणि त्यांच्यामध्ये ताणलेली मोजपट्टी, त्यावर "10 km".
-- **Text:** "फक्त 'हाय' म्हणायचंय" (3 शब्द)
-- **रंग:** ओम चमकदार पिवळ्या टी-शर्टमध्ये, पार्श्वभूमी फिकट निळी-राखाडी, मुलांचा ग्रुप थोडा धूसर. मोजपट्टी लाल, म्हणजे नजर थेट अंतरावर जाते.
+### A (recommended): ten steps or ten kilometres
+- **Pose and face:** Om stands by the bench, eyes huge and panicked, sweat drop on his forehead, both hands twisting the hem of his T-shirt.
+- **Scene:** far to the right, five tiny kids playing ball. A long red measuring tape stretches between them and Om.
+- **Text:** "JUST SAY HI?" (3 words)
+- **Colour:** Om in bright amber, background pale blue-grey, the kids slightly faded. The red tape pulls the eye straight to the gap.
 
-### B: धूसर आरसा
-- **पोझ आणि चेहरा:** ओम आरशासमोर उभा, भुवया उंचावलेल्या, ओठ थरथरतायत.
-- **सीन:** आरशात ओम खूप छोटा आणि राखाडी दिसतो. फक्त आरसा आणि ओम, एवढंच.
-- **Text:** "मी पुरेसा आहे का?" (4 शब्द)
-- **रंग:** उबदार नारिंगी ओम विरुद्ध थंड राखाडी आरसा.
+### B: the foggy mirror
+- **Pose and face:** Om in front of a mirror, eyebrows raised, lip trembling.
+- **Scene:** in the mirror, Om looks tiny and grey. Only Om and the mirror.
+- **Text:** "AM I ENOUGH?" (3 words)
+- **Colour:** warm amber Om against a cold grey mirror.
 
-### C: पायामागे लपलेला ओम
-- **पोझ आणि चेहरा:** ओम आईच्या पायामागे लपलेला, फक्त अर्धा चेहरा आणि एक मोठा घाबरलेला डोळा दिसतो.
-- **सीन:** बर्थडे पार्टीचे फुगे. वरून आईच्या speech bubble मध्ये "जा ना, खेळ!"
-- **Text:** "जा ना, खेळ!" (3 शब्द, bubble हाच text)
-- **रंग:** लाल-गुलाबी पार्टी बॅकग्राउंड, ओम पिवळा, आई गडद निळ्या रंगात म्हणजे ओम उठून दिसेल.
+### C: hiding behind Mom's leg
+- **Pose and face:** Om hiding behind his mother's leg, half his face showing, one big scared eye.
+- **Scene:** party balloons. Mom's speech bubble above: "Go play!"
+- **Text:** "GO PLAY!" (2 words, inside the speech bubble)
+- **Colour:** pink-red party background, Om in amber, Mom in dark blue so Om stands out.
 
-**Recommended जोडी:** Title #1 + Thumbnail A. Title प्रश्न विचारतं आणि thumbnail ते अंतर डोळ्यांना दाखवतं. Text title मधले शब्द रिपीट करत नाही.
+**Recommended pair:** Title #1 + Thumbnail A. The title names the 10 km feeling, and the thumbnail shows it. The text asks a different question from the title instead of repeating it.
