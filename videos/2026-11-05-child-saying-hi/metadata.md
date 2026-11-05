@@ -14,7 +14,7 @@
 Why does one word, "hi", feel impossible for shy kids?
 This video explains the psychology behind it: temperament, the liking gap, rejection sensitivity, and why self-acceptance shapes how accepted a child feels.
 
-Some children are cautious with new people from the start, and that's normal temperament. From around age five, many kids also start to underestimate how much other kids like them, and a fear of rejection can quietly turn into a loop that keeps them on the sidelines. The video ends with three simple things parents can do to build a shy child's confidence.
+Some children are cautious with new people from the start, and that's normal temperament. From around age five, many kids also start to underestimate how much other kids like them, and a fear of rejection can turn into a loop that keeps them on the sidelines. The video ends with three simple things parents can do to build a shy child's confidence.
 
 Chapters:
 0:00 Ten steps that feel like ten kilometres
