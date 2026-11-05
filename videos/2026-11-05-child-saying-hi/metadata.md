@@ -18,14 +18,14 @@ Some children are cautious with new people from the start, and that's normal tem
 
 Chapters:
 0:00 Ten steps that feel like ten kilometers
-0:25 You've seen this scene
-1:30 Inside a shy kid's head
-2:35 Temperament, not a flaw
-3:35 The liking gap
-4:45 The rejection loop
-6:00 Self-acceptance and the sociometer
-7:40 3 things parents can do
-9:22 Back at the park
+0:17 You've seen this scene
+1:03 Inside a shy kid's head
+1:48 Temperament, not a flaw
+2:38 The liking gap
+3:29 The rejection loop
+4:28 Self-acceptance and the sociometer
+5:45 3 things parents can do
+7:02 Back at the park
 
 Sources:
 - Kagan, Reznick & Snidman (1988). Biological bases of childhood shyness. Science, 240, 167-171.
@@ -92,6 +92,6 @@ Full scripts, visuals and a HyperFrames prompt are in `shorts-scripts.md`. Each 
 
 ## After rendering (optional vidIQ steps)
 
-- Run `vidiq_generate_video_chapters` on the uploaded video to check the chapter times against the real voiceover.
+- Chapter times above are measured from the final render (7:31, Vestal voiceover).
 - Run `vidiq_score_thumbnail` on the final thumbnail.
 - Push this metadata with `vidiq_update_video` only when you say so.
