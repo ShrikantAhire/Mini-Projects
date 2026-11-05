@@ -1,0 +1,706 @@
+{
+ "sr": 24000,
+ "total": 585.084,
+ "lines": [
+  {
+   "i": 1,
+   "chapter": "hook",
+   "text": "Five kids are playing ball in the park.",
+   "start": 0.6,
+   "dur": 2.944
+  },
+  {
+   "i": 2,
+   "chapter": "hook",
+   "text": "Om is six. He's standing by the bench.",
+   "start": 3.994,
+   "dur": 3.375
+  },
+  {
+   "i": 3,
+   "chapter": "hook",
+   "text": "He wants to say one word. \"Hi.\"",
+   "start": 7.819,
+   "dur": 2.839
+  },
+  {
+   "i": 4,
+   "chapter": "hook",
+   "text": "He's ten steps away from them.",
+   "start": 11.108,
+   "dur": 2.377
+  },
+  {
+   "i": 5,
+   "chapter": "hook",
+   "text": "In Om's head, those ten steps feel like ten kilometres.",
+   "start": 13.935,
+   "dur": 4.5
+  },
+  {
+   "i": 6,
+   "chapter": "relate",
+   "text": "If you're a parent, you've seen this.",
+   "start": 19.884,
+   "dur": 2.649
+  },
+  {
+   "i": 7,
+   "chapter": "relate",
+   "text": "At a birthday party, your child stays glued to your leg.",
+   "start": 22.984,
+   "dur": 4.358
+  },
+  {
+   "i": 8,
+   "chapter": "relate",
+   "text": "You say, \"Go on, go play with them.\"",
+   "start": 27.792,
+   "dur": 2.847
+  },
+  {
+   "i": 9,
+   "chapter": "relate",
+   "text": "They shake their head and don't move.",
+   "start": 31.089,
+   "dur": 2.865
+  },
+  {
+   "i": 10,
+   "chapter": "relate",
+   "text": "And without thinking, you tell the other parents, \"Oh, he's a bit shy.\"",
+   "start": 34.404,
+   "dur": 5.128
+  },
+  {
+   "i": 11,
+   "chapter": "relate",
+   "text": "If you're not a parent, you still know this scene.",
+   "start": 39.982,
+   "dur": 3.308
+  },
+  {
+   "i": 12,
+   "chapter": "relate",
+   "text": "At some point, you were the kid by the bench.",
+   "start": 43.74,
+   "dur": 3.285
+  },
+  {
+   "i": 13,
+   "chapter": "relate",
+   "text": "Maybe it was a new school, where everyone already had their group.",
+   "start": 47.475,
+   "dur": 4.709
+  },
+  {
+   "i": 14,
+   "chapter": "relate",
+   "text": "You ate lunch alone, because walking over felt riskier than sitting by yourself. What if they ignored you?",
+   "start": 52.634,
+   "dur": 7.771
+  },
+  {
+   "i": 15,
+   "chapter": "relate",
+   "text": "This doesn't fully go away when we grow up.",
+   "start": 60.855,
+   "dur": 3.358
+  },
+  {
+   "i": 16,
+   "chapter": "relate",
+   "text": "It shows up at the first meeting in a new job, in a new apartment building, at a networking event.",
+   "start": 64.663,
+   "dur": 7.379
+  },
+  {
+   "i": 17,
+   "chapter": "relate",
+   "text": "You rehearse your introduction in your head, and by the time you're ready, the moment has passed.",
+   "start": 72.492,
+   "dur": 6.71
+  },
+  {
+   "i": 18,
+   "chapter": "relate",
+   "text": "We've just learned to keep it off our faces.",
+   "start": 79.651,
+   "dur": 3.165
+  },
+  {
+   "i": 19,
+   "chapter": "head",
+   "text": "Let's look at what goes through Om's head in those ten seconds.",
+   "start": 83.267,
+   "dur": 4.773
+  },
+  {
+   "i": 20,
+   "chapter": "head",
+   "text": "\"Will they let me play?\"",
+   "start": 88.49,
+   "dur": 1.744
+  },
+  {
+   "i": 21,
+   "chapter": "head",
+   "text": "\"If I say something wrong, will they laugh?\"",
+   "start": 90.684,
+   "dur": 3.228
+  },
+  {
+   "i": 22,
+   "chapter": "head",
+   "text": "\"Could I be their friend?\"",
+   "start": 94.362,
+   "dur": 2.051
+  },
+  {
+   "i": 23,
+   "chapter": "head",
+   "text": "And under all of these sits a question he can't put into words: \"Am I good enough?\"",
+   "start": 96.863,
+   "dur": 5.944
+  },
+  {
+   "i": 24,
+   "chapter": "head",
+   "text": "For an adult, saying hi takes two seconds.",
+   "start": 104.257,
+   "dur": 3.566
+  },
+  {
+   "i": 25,
+   "chapter": "head",
+   "text": "For a child, it's a risk.",
+   "start": 108.273,
+   "dur": 2.345
+  },
+  {
+   "i": 26,
+   "chapter": "head",
+   "text": "He's putting himself in front of other people, and whether they say yes or no is out of his hands.",
+   "start": 111.067,
+   "dur": 6.987
+  },
+  {
+   "i": 27,
+   "chapter": "head",
+   "text": "When a young child hears \"no\", they don't hear \"the game is full right now.\"",
+   "start": 118.504,
+   "dur": 4.726
+  },
+  {
+   "i": 28,
+   "chapter": "head",
+   "text": "They hear \"we don't want you.\"",
+   "start": 123.68,
+   "dur": 2.11
+  },
+  {
+   "i": 29,
+   "chapter": "head",
+   "text": "So the mind decides it's safer not to ask. If you never ask, nobody can turn you down.",
+   "start": 126.24,
+   "dur": 6.915
+  },
+  {
+   "i": 30,
+   "chapter": "head",
+   "text": "Om takes two steps forward, stops, and walks back to the bench.",
+   "start": 133.606,
+   "dur": 4.882
+  },
+  {
+   "i": 31,
+   "chapter": "temp",
+   "text": "First, none of this means something is wrong with the child.",
+   "start": 139.937,
+   "dur": 4.305
+  },
+  {
+   "i": 32,
+   "chapter": "temp",
+   "text": "Harvard psychologist Jerome Kagan spent decades studying young children.",
+   "start": 144.692,
+   "dur": 6.082
+  },
+  {
+   "i": 33,
+   "chapter": "temp",
+   "text": "He found that some children, right from infancy, are more cautious around new people and new places.",
+   "start": 151.224,
+   "dur": 7.534
+  },
+  {
+   "i": 34,
+   "chapter": "temp",
+   "text": "He called it behavioural inhibition. In plain words: look first, then join.",
+   "start": 159.208,
+   "dur": 6.242
+  },
+  {
+   "i": 35,
+   "chapter": "temp",
+   "text": "That's temperament, and there's nothing broken about it.",
+   "start": 165.9,
+   "dur": 3.74
+  },
+  {
+   "i": 36,
+   "chapter": "temp",
+   "text": "Earlier, in the New York Longitudinal Study, psychiatrists Alexander Thomas and Stella Chess described a similar group of children as \"slow to warm up\".",
+   "start": 170.09,
+   "dur": 12.208
+  },
+  {
+   "i": 37,
+   "chapter": "temp",
+   "text": "Give them time to watch, and many of them join in on their own.",
+   "start": 182.748,
+   "dur": 4.905
+  },
+  {
+   "i": 38,
+   "chapter": "temp",
+   "text": "Kagan's work also showed it isn't set in stone. With a supportive environment, many of these children open up over time.",
+   "start": 188.103,
+   "dur": 9.395
+  },
+  {
+   "i": 39,
+   "chapter": "temp",
+   "text": "Temperament is one part of the story. The other part is what the child believes about themselves.",
+   "start": 197.948,
+   "dur": 7.348
+  },
+  {
+   "i": 40,
+   "chapter": "liking",
+   "text": "In 2018, Erica Boothby and her colleagues studied conversations between strangers.",
+   "start": 205.746,
+   "dur": 7.903
+  },
+  {
+   "i": 41,
+   "chapter": "liking",
+   "text": "Two people chat for a few minutes. Then each one is asked, \"How much did the other person like you?\"",
+   "start": 214.099,
+   "dur": 6.753
+  },
+  {
+   "i": 42,
+   "chapter": "liking",
+   "text": "Most people guessed too low. Their partners actually liked them more than they thought.",
+   "start": 221.303,
+   "dur": 5.548
+  },
+  {
+   "i": 43,
+   "chapter": "liking",
+   "text": "Researchers call this the liking gap.",
+   "start": 227.301,
+   "dur": 3.034
+  },
+  {
+   "i": 44,
+   "chapter": "liking",
+   "text": "In 2021, Wouter Wolf, working with Michael Tomasello, ran a similar study with children aged four to eleven.",
+   "start": 230.784,
+   "dur": 10.538
+  },
+  {
+   "i": 45,
+   "chapter": "liking",
+   "text": "The four-year-olds didn't show the gap. They assumed the other kid liked them just as much as they liked the other kid.",
+   "start": 241.773,
+   "dur": 8.31
+  },
+  {
+   "i": 46,
+   "chapter": "liking",
+   "text": "The gap appeared at around age five, which is the age when children start to care what others think of them.",
+   "start": 250.533,
+   "dur": 7.982
+  },
+  {
+   "i": 47,
+   "chapter": "liking",
+   "text": "And it grew wider as the children got older.",
+   "start": 258.965,
+   "dur": 3.368
+  },
+  {
+   "i": 48,
+   "chapter": "liking",
+   "text": "So when Om thinks, \"They won't let me in,\" it's often not true.",
+   "start": 262.783,
+   "dur": 4.656
+  },
+  {
+   "i": 49,
+   "chapter": "liking",
+   "text": "It's a guess, and the guess is usually stacked against him.",
+   "start": 267.889,
+   "dur": 4.101
+  },
+  {
+   "i": 50,
+   "chapter": "reject",
+   "text": "Sometimes that guess makes itself come true.",
+   "start": 272.44,
+   "dur": 3.705
+  },
+  {
+   "i": 51,
+   "chapter": "reject",
+   "text": "Columbia University psychologist Geraldine Downey called this rejection sensitivity:",
+   "start": 276.595,
+   "dur": 7.354
+  },
+  {
+   "i": 52,
+   "chapter": "reject",
+   "text": "anxiously expecting rejection, and spotting it in the smallest signals.",
+   "start": 284.399,
+   "dur": 5.606
+  },
+  {
+   "i": 53,
+   "chapter": "reject",
+   "text": "In 1998, her team studied children in fifth to seventh grade.",
+   "start": 290.455,
+   "dur": 6.556
+  },
+  {
+   "i": 54,
+   "chapter": "reject",
+   "text": "Each child was asked to invite a classmate to join them for an interview.",
+   "start": 297.461,
+   "dur": 5.481
+  },
+  {
+   "i": 55,
+   "chapter": "reject",
+   "text": "A little later, they were told the classmate didn't want to come. No reason was given.",
+   "start": 303.392,
+   "dur": 6.181
+  },
+  {
+   "i": 56,
+   "chapter": "reject",
+   "text": "Children who expected rejection, and expected to feel angry about it, were more upset by this small, unclear \"no\".",
+   "start": 310.023,
+   "dur": 8.738
+  },
+  {
+   "i": 57,
+   "chapter": "reject",
+   "text": "And according to their teachers, the kids high in rejection sensitivity had more trouble with peers a year later.",
+   "start": 319.211,
+   "dur": 8.558
+  },
+  {
+   "i": 58,
+   "chapter": "reject",
+   "text": "It works like a loop.",
+   "start": 328.219,
+   "dur": 1.818
+  },
+  {
+   "i": 59,
+   "chapter": "reject",
+   "text": "A child who thinks \"they'll reject me\" hangs back, or acts stiff and awkward.",
+   "start": 330.487,
+   "dur": 5.65
+  },
+  {
+   "i": 60,
+   "chapter": "reject",
+   "text": "The other kids read that as distance, so they don't invite them.",
+   "start": 336.587,
+   "dur": 4.625
+  },
+  {
+   "i": 61,
+   "chapter": "reject",
+   "text": "And the child concludes, \"See? I knew it.\"",
+   "start": 341.662,
+   "dur": 3.029
+  },
+  {
+   "i": 62,
+   "chapter": "reject",
+   "text": "Before anyone else turned them down, they had already turned themselves down.",
+   "start": 345.141,
+   "dur": 5.206
+  },
+  {
+   "i": 63,
+   "chapter": "self",
+   "text": "Two things are tied together here: how a child sees themselves, and how accepted they feel by others.",
+   "start": 351.797,
+   "dur": 7.509
+  },
+  {
+   "i": 64,
+   "chapter": "self",
+   "text": "In 1995, psychologist Mark Leary proposed sociometer theory.",
+   "start": 359.756,
+   "dur": 7.183
+  },
+  {
+   "i": 65,
+   "chapter": "self",
+   "text": "His idea is that self-esteem works like a meter. It keeps checking one thing: \"Am I accepted?\"",
+   "start": 367.388,
+   "dur": 7.325
+  },
+  {
+   "i": 66,
+   "chapter": "self",
+   "text": "The meter works in both directions.",
+   "start": 375.163,
+   "dur": 3.238
+  },
+  {
+   "i": 67,
+   "chapter": "self",
+   "text": "When people accept you, the needle rises.",
+   "start": 378.852,
+   "dur": 3.352
+  },
+  {
+   "i": 68,
+   "chapter": "self",
+   "text": "When the needle is already low, a child reads rejection into every silence and every glance away.",
+   "start": 382.654,
+   "dur": 7.699
+  },
+  {
+   "i": 69,
+   "chapter": "self",
+   "text": "A child who believes \"I'm okay as I am\" hears \"no\" as a no to one game, and walks over to another group.",
+   "start": 390.803,
+   "dur": 8.299
+  },
+  {
+   "i": 70,
+   "chapter": "self",
+   "text": "A child who hasn't accepted themselves hears every \"no\" as a verdict on who they are.",
+   "start": 399.552,
+   "dur": 6.383
+  },
+  {
+   "i": 71,
+   "chapter": "self",
+   "text": "Think of it as a mirror.",
+   "start": 406.385,
+   "dur": 2.153
+  },
+  {
+   "i": 72,
+   "chapter": "self",
+   "text": "When a child looks at other kids, they see their own opinion of themselves reflected back.",
+   "start": 408.987,
+   "dur": 6.514
+  },
+  {
+   "i": 73,
+   "chapter": "self",
+   "text": "If the mirror is foggy, even a friendly smile can look like teasing.",
+   "start": 415.951,
+   "dur": 5.154
+  },
+  {
+   "i": 74,
+   "chapter": "self",
+   "text": "A young child can't clean that mirror alone. That job starts at home.",
+   "start": 421.555,
+   "dur": 5.554
+  },
+  {
+   "i": 75,
+   "chapter": "self",
+   "text": "Carl Rogers called it unconditional positive regard:",
+   "start": 427.559,
+   "dur": 4.611
+  },
+  {
+   "i": 76,
+   "chapter": "self",
+   "text": "a child feeling loved regardless of their marks, their performance, or how talkative they are.",
+   "start": 432.62,
+   "dur": 6.778
+  },
+  {
+   "i": 77,
+   "chapter": "self",
+   "text": "A child who feels that kind of love is more willing to go out and explore, because they know there's a safe place to come back to. Attachment researchers call this a secure base.",
+   "start": 439.848,
+   "dur": 13.428
+  },
+  {
+   "i": 78,
+   "chapter": "parents",
+   "text": "Parents can start three things today.",
+   "start": 453.725,
+   "dur": 2.866
+  },
+  {
+   "i": 79,
+   "chapter": "parents",
+   "text": "One: drop the label.",
+   "start": 457.042,
+   "dur": 1.765
+  },
+  {
+   "i": 80,
+   "chapter": "parents",
+   "text": "When a child keeps hearing \"he's shy\", it can become part of who they think they are.",
+   "start": 459.257,
+   "dur": 5.559
+  },
+  {
+   "i": 81,
+   "chapter": "parents",
+   "text": "Try saying, \"He likes to watch for a bit first.\" That's true, and it carries no blame.",
+   "start": 465.266,
+   "dur": 6.206
+  },
+  {
+   "i": 82,
+   "chapter": "parents",
+   "text": "Two: teach \"hi\" in small steps.",
+   "start": 471.921,
+   "dur": 2.65
+  },
+  {
+   "i": 83,
+   "chapter": "parents",
+   "text": "Role-play at home. You play the new kid, and your child introduces themselves.",
+   "start": 475.021,
+   "dur": 5.942
+  },
+  {
+   "i": 84,
+   "chapter": "parents",
+   "text": "\"Hi, I'm Om. I like playing ball. Can I play too?\"",
+   "start": 481.414,
+   "dur": 4.157
+  },
+  {
+   "i": 85,
+   "chapter": "parents",
+   "text": "That's three sentences. Once they've said them ten times at home, saying them once at the park gets easier.",
+   "start": 486.02,
+   "dur": 8.088
+  },
+  {
+   "i": 86,
+   "chapter": "parents",
+   "text": "And don't push them straight into a big group. Start with one child, then the group. A playdate at home with one friend is a good first step.",
+   "start": 494.558,
+   "dur": 10.33
+  },
+  {
+   "i": 87,
+   "chapter": "parents",
+   "text": "Three: praise the attempt, not the outcome.",
+   "start": 505.339,
+   "dur": 3.192
+  },
+  {
+   "i": 88,
+   "chapter": "parents",
+   "text": "If your child says hi and the other kids don't let them in, still say, \"You went up and talked to them yourself. I loved that.\"",
+   "start": 508.98,
+   "dur": 9.147
+  },
+  {
+   "i": 89,
+   "chapter": "parents",
+   "text": "That teaches them their worth doesn't depend on someone else's yes.",
+   "start": 518.578,
+   "dur": 5.18
+  },
+  {
+   "i": 90,
+   "chapter": "parents",
+   "text": "Kids also learn by watching you.",
+   "start": 524.208,
+   "dur": 2.969
+  },
+  {
+   "i": 91,
+   "chapter": "parents",
+   "text": "They notice how you talk to new people, and how you talk about your own mistakes.",
+   "start": 527.627,
+   "dur": 5.924
+  },
+  {
+   "i": 92,
+   "chapter": "parents",
+   "text": "When you accept yourself, it's much easier to teach them the same.",
+   "start": 534.0,
+   "dur": 4.6
+  },
+  {
+   "i": 93,
+   "chapter": "parents",
+   "text": "If the fear is intense, if your child keeps dreading school or it's affecting daily life, talk to a child psychologist.",
+   "start": 539.05,
+   "dur": 9.292
+  },
+  {
+   "i": 94,
+   "chapter": "close",
+   "text": "Back at the park, Om is standing by the same bench, ten steps from the game.",
+   "start": 549.793,
+   "dur": 5.888
+  },
+  {
+   "i": 95,
+   "chapter": "close",
+   "text": "He walks forward. His voice shakes a little.",
+   "start": 556.131,
+   "dur": 3.264
+  },
+  {
+   "i": 96,
+   "chapter": "close",
+   "text": "\"Hi. I'm Om. Can I play too?\"",
+   "start": 559.845,
+   "dur": 2.908
+  },
+  {
+   "i": 97,
+   "chapter": "close",
+   "text": "One of the kids throws him the ball.",
+   "start": 563.203,
+   "dur": 3.045
+  },
+  {
+   "i": 98,
+   "chapter": "close",
+   "text": "Those ten kilometres were only ten steps after all.",
+   "start": 566.698,
+   "dur": 4.406
+  },
+  {
+   "i": 99,
+   "chapter": "close",
+   "text": "If you know a parent with an Om at home, send this to them.",
+   "start": 572.554,
+   "dur": 4.217
+  },
+  {
+   "i": 100,
+   "chapter": "close",
+   "text": "And if you'd like a separate video on the liking gap in adults, tell me in the comments.",
+   "start": 577.221,
+   "dur": 5.913
+  }
+ ]
+}
