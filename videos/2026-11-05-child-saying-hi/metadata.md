@@ -37,7 +37,7 @@ Sources:
 - Rogers (1959). A theory of therapy, personality and interpersonal relationships.
 - Ainsworth et al. (1978). Patterns of Attachment.
 
-This video is for education, not diagnosis. If your child's fear is intense or affecting daily life, talk to a child psychologist or counsellor.
+This video is for education, not diagnosis. If your child's fear is intense or affecting daily life, talk to a child psychologist or counselor.
 
 #psychology #parenting #shykids
 ```
