@@ -162,7 +162,7 @@ def _(s):
     s.add(f'<g transform="translate(1560 860)"><rect x="-50" y="-100" width="100" height="100" rx="10" fill="{AMBER}" stroke="{INK}" stroke-width="6"/></g>')
     s.baby("b1",1380,770,1.3,"happy"); s.baby("b2",680,930,1.3,"thinking",(8,-4))
     s.add(P.text(s.id("t1"),960,250,"Look first,",96,INK)); s.add(P.text(s.id("t2"),960,370,"then join",96,AMBER,stroke=INK,sw=7))
-    s.add(P.text(s.id("bi"),960,130,"Behavioural inhibition",52,"#6B6B6B",weight=800))
+    s.add(P.text(s.id("bi"),960,130,"Behavioral inhibition",52,"#6B6B6B",weight=800))
     s.fadein("bi",s.at(0.1)); s.rise("t1",s.at(0.6)); s.rise("t2",s.at(0.8))
 
 @scene(35)
