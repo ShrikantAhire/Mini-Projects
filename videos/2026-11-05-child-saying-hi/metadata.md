@@ -2,9 +2,9 @@
 
 ## Title
 
-10 Steps Felt Like 10 Kilometres: A Shy Kid's Mind
+10 Steps Felt Like 10 Kilometers: A Shy Kid's Mind
 
-(50 characters, vidIQ score 94. I also tested a version with the keyword first, "Shy Kids: Why 10 Steps Feel Like 10 Kilometres". It scored 84, so the approved title stays and the keyword goes into the description's first line and the tags instead.)
+(50 characters, vidIQ score 94. I also tested a version with the keyword first, "Shy Kids: Why 10 Steps Feel Like 10 Kilometers". It scored 84, so the approved title stays and the keyword goes into the description's first line and the tags instead.)
 
 ---
 
@@ -17,7 +17,7 @@ This video explains the psychology behind it: temperament, the liking gap, rejec
 Some children are cautious with new people from the start, and that's normal temperament. From around age five, many kids also start to underestimate how much other kids like them, and a fear of rejection can turn into a loop that keeps them on the sidelines. The video ends with three simple things parents can do to build a shy child's confidence.
 
 Chapters:
-0:00 Ten steps that feel like ten kilometres
+0:00 Ten steps that feel like ten kilometers
 0:25 You've seen this scene
 1:30 Inside a shy kid's head
 2:35 Temperament, not a flaw

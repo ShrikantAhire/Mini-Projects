@@ -14,7 +14,7 @@ Five kids are playing ball in the park.
 Om is six. He's standing by the bench.
 He wants to say one word. "Hi."
 He's ten steps away from them.
-In Om's head, those ten steps feel like ten kilometres.
+In Om's head, those ten steps feel like ten kilometers.
 
 **VISUAL:** Park, five stickman kids playing ball. Om by the bench, hands behind his back. A line of footprints on the ground reads "10 steps", then stretches into a red tape reading "10 km". Om shrinks a little.
 
@@ -72,7 +72,7 @@ Om takes two steps forward, stops, and walks back to the bench.
 First, none of this means something is wrong with the child.
 Harvard psychologist Jerome Kagan spent decades studying young children.
 He found that some children, right from infancy, are more cautious around new people and new places.
-He called it behavioural inhibition. In plain words: look first, then join.
+He called it behavioral inhibition. In plain words: look first, then join.
 That's temperament, and there's nothing broken about it.
 Earlier, in the New York Longitudinal Study, psychiatrists Alexander Thomas and Stella Chess described a similar group of children as "slow to warm up". Give them time to watch, and many of them join in on their own.
 Kagan's work also showed it isn't set in stone. With a supportive environment, many of these children open up over time.
@@ -144,7 +144,7 @@ When a child looks at other kids, they see their own opinion of themselves refle
 If the mirror is foggy, even a friendly smile can look like teasing.
 
 A young child can't clean that mirror alone. That job starts at home.
-Carl Rogers called it unconditional positive regard: a child feeling loved regardless of their marks, their performance, or how talkative they are.
+Carl Rogers called it unconditional positive regard: a child feeling loved regardless of their grades, their performance, or how talkative they are.
 A child who feels that kind of love is more willing to go out and explore, because they know there's a safe place to come back to. Attachment researchers call this a secure base.
 
 **VISUAL:** A gauge on Om's chest with the needle low. A mirror: in the foggy mirror, smiling kids look like they're mocking him. Mom and Dad wipe the mirror with a cloth, and the kids are simply smiling. Home glows as a "secure base" and Om walks out from it.
@@ -191,7 +191,7 @@ Back at the park, Om is standing by the same bench, ten steps from the game.
 He walks forward. His voice shakes a little.
 "Hi. I'm Om. Can I play too?"
 One of the kids throws him the ball.
-Those ten kilometres were only ten steps after all.
+Those ten kilometers were only ten steps after all.
 
 If you know a parent with an Om at home, send this to them.
 And if you'd like a separate video on the liking gap in adults, tell me in the comments.

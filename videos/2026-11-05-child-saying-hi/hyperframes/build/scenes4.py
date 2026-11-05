@@ -144,7 +144,7 @@ def _(s):
     s.char("om",1010,860,0.85,"om",("relieved",),("clasp",))
     s.char("mom",880,860,1.0,"mom",("happy",),("hug",),look=(8,4))
     s.add(P.heart(s.id("ht"),960,230,1.4))
-    for i,(w,x) in enumerate((("Marks",560),("Performance",960),("Talkative?",1380))):
+    for i,(w,x) in enumerate((("Grades",560),("Performance",960),("Talkative?",1380))):
         s.add(P.tag(s.id(f"t{i}"),x,420,w))
         s.fadein(f"t{i}",s.at(0.25+i*0.15),0.25)
         s.ft(f"t{i}",{"y":0,"opacity":1},{"y":-140,"opacity":0},s.at(0.7)+i*0.08,0.8,"power2.in")

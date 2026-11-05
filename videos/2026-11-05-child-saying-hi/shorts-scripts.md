@@ -54,7 +54,7 @@ Three standalone Shorts cut from the main video's topic. Each one has its own vo
 | Time | Beat | VO | VISUAL (9:16) |
 |---|---|---|---|
 | 0:00-0:03 | Hook | Calling your child shy can make it stick. | A red "SHY" label slaps onto Om's forehead. |
-| 0:03-0:17 | Name it + proof | Some kids are cautious with new people from the start. Psychologist Jerome Kagan called it behavioural inhibition: look first, then join. He saw it as temperament, and many of these kids open up with time. | Researcher card "Kagan et al., 1988" at the top. Two babies: one crawls straight to a toy, one looks back first. Text: "Look first, then join." |
+| 0:03-0:17 | Name it + proof | Some kids are cautious with new people from the start. Psychologist Jerome Kagan called it behavioral inhibition: look first, then join. He saw it as temperament, and many of these kids open up with time. | Researcher card "Kagan et al., 1988" at the top. Two babies: one crawls straight to a toy, one looks back first. Text: "Look first, then join." |
 | 0:17-0:24 | Why | But when a child keeps hearing "he's shy," it can become part of how they see themselves. | The "SHY" label grows and Om shrinks under it. |
 | 0:24-0:43 | Takeaway | So try two things. First, swap the label for "He likes to watch for a bit first." Second, when your child walks up and says hi, praise the attempt, even if the other kids say no. "You went up and talked to them yourself. I loved that." | Card "1": Mom peels the label off, a small amber bubble reads "Likes to watch first". Card "2": Om walks back after a "no", Mom gives him a high-five. Last frame: Om smiling, no label. |
 

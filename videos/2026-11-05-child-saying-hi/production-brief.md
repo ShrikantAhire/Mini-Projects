@@ -1,4 +1,4 @@
-# Production brief: "10 Steps Felt Like 10 Kilometres: A Shy Kid's Mind"
+# Production brief: "10 Steps Felt Like 10 Kilometers: A Shy Kid's Mind"
 
 **Format:** main video, 16:9, 1920x1080, 30fps, ~10:00
 **Language:** English voiceover and captions
@@ -70,7 +70,7 @@ Motion: bounce in, shake, zoom punch, slow push-in, thought bubble pop, split sc
 | 2 | 0:05-0:10 | Om is six. He's standing by the bench. | Om | standing, hands behind back, worried | Pan lands on Om, Om bounces in | "Om, 6" | soft pop | Park + bench | pan |
 | 3 | 0:10-0:15 | He wants to say one word. "Hi." | Om | worried, mouth slightly open | Thought bubble pops with "Hi", wobbles | **Hi** | pop | Park + bench | - |
 | 4 | 0:15-0:20 | He's ten steps away from them. | Om, kids | standing | 10 footprints appear one by one between Om and kids | **10 steps** | 10 quick ticks | Park | - |
-| 5 | 0:20-0:25 | In Om's head, those ten steps feel like ten kilometres. | Om, kids | panicked, sweat drop | Footprints stretch, kids slide far right and shrink, red tape grows reading "10 km", slow push-in on Om | **10 km** (red) | stretch whoosh, low heartbeat | Park | freeze frame, 0.5s hold |
+| 5 | 0:20-0:25 | In Om's head, those ten steps feel like ten kilometers. | Om, kids | panicked, sweat drop | Footprints stretch, kids slide far right and shrink, red tape grows reading "10 km", slow push-in on Om | **10 km** (red) | stretch whoosh, low heartbeat | Park | freeze frame, 0.5s hold |
 | **RELATE** | | | | | | | | | |
 | 6 | 0:25-0:29 | If you're a parent, you've seen this. | - | - | Party scene wipes in | - | whoosh | Birthday party | wipe |
 | 7 | 0:29-0:34 | At a birthday party, your child stays glued to your leg. | Om, Mom | Om hiding behind Mom's leg, worried | Om peeks out, ducks back | - | party murmur | Party | - |
@@ -102,7 +102,7 @@ Motion: bounce in, shake, zoom punch, slow push-in, thought bubble pop, split sc
 | 31 | 2:35-2:41 | First, none of this means something is wrong with the child. | Om | sad, then relieved | Red "SOMETHING WRONG?" stamp, struck through | ~~Something wrong?~~ | eraser swipe | Plain | cut |
 | 32 | 2:41-2:47 | Harvard psychologist Jerome Kagan spent decades studying young children. | Researcher card | - | Card slides in | "Jerome Kagan, Harvard / Kagan et al., 1988" | paper slide | Plain | slide |
 | 33 | 2:47-2:54 | He found that some children, right from infancy, are more cautious around new people and new places. | 2 babies | Baby 1 happy. Baby 2 thinking, looks back at mother first | Baby 1 crawls fast to a toy block. Baby 2 pauses, then crawls slowly | - | soft pop | Nursery rug | - |
-| 34 | 2:54-3:00 | He called it behavioural inhibition. In plain words: look first, then join. | Baby 2 | thinking | Text writes on | **Look first, then join** | ding | Nursery | - |
+| 34 | 2:54-3:00 | He called it behavioral inhibition. In plain words: look first, then join. | Baby 2 | thinking | Text writes on | **Look first, then join** | ding | Nursery | - |
 | 35 | 3:00-3:04 | That's temperament, and there's nothing broken about it. | Baby 2 | happy | Amber "TEMPERAMENT" stamps in | **Temperament** | stamp | Nursery | - |
 | 36 | 3:04-3:11 | Earlier, in the New York Longitudinal Study, ... "slow to warm up". | Researcher card | - | Card slides in | "Thomas & Chess, 1977 / Slow to warm up" | paper slide | Plain | slide |
 | 37 | 3:11-3:17 | Give them time to watch, and many of them join in on their own. | Baby 2 as toddler | thinking, then happy | Toddler watches kids from a distance, a small timer fills, then toddler walks over | - | gentle rising tone | Park | - |
@@ -147,7 +147,7 @@ Motion: bounce in, shake, zoom punch, slow push-in, thought bubble pop, split sc
 | 73 | 6:58-7:04 | If the mirror is foggy, even a friendly smile can look like teasing. | Om, kids (in mirror) | Real kids happy. In the fogged mirror they look smug | Fog blur over the mirror | - | distorted laugh | Park | - |
 | 74 | 7:04-7:10 | A young child can't clean that mirror alone. That job starts at home. | Mom, Dad, Om | Mom and Dad happy, wiping the mirror with a cloth | Wipe clears the fog, kids now just smile | - | squeaky wipe | Home: window, sofa | - |
 | 75 | 7:10-7:15 | Carl Rogers called it unconditional positive regard... | Researcher card | - | Card slides in | "Carl Rogers / Unconditional positive regard" | paper slide | Plain | slide |
-| 76 | 7:15-7:24 | ...a child feeling loved regardless of their marks, their performance, or how talkative they are. | Mom, Om | Mom hugging Om, both happy | Tags "Marks", "Performance", "Talkative?" float off and fade. An amber heart stays | 3 tags | pop x3, soft chime | Home | - |
+| 76 | 7:15-7:24 | ...a child feeling loved regardless of their grades, their performance, or how talkative they are. | Mom, Om | Mom hugging Om, both happy | Tags "Grades", "Performance", "Talkative?" float off and fade. An amber heart stays | 3 tags | pop x3, soft chime | Home | - |
 | 77 | 7:24-7:40 | A child who feels that kind of love is more willing to go out and explore... Attachment researchers call this a secure base. | Om, home | Om walking out happy, looks back once | House glows amber, dotted path from house to park | **Secure base** | warm chime | Home → park | pan |
 | **WHAT PARENTS CAN DO** | | | | | | | | | |
 | 78 | 7:40-7:44 | Parents can start three things today. | - | - | 3 cards stack, numbered 1, 2, 3 | "3 things for parents" | card shuffle | Plain | - |
@@ -171,7 +171,7 @@ Motion: bounce in, shake, zoom punch, slow push-in, thought bubble pop, split sc
 | 95 | 9:29-9:34 | He walks forward. His voice shakes a little. | Om | walking, slight shake | Footprints appear as he walks. Tape shrinks from "10 km" to amber "10 steps" | **10 steps** | footsteps | Park | - |
 | 96 | 9:34-9:38 | "Hi. I'm Om. Can I play too?" | Om | worried, then hopeful, hand up | Speech bubble | **Hi** | - | Park | slow push-in |
 | 97 | 9:38-9:42 | One of the kids throws him the ball. | Kid, Om | Kid big grin throws. Om catches, big grin | Ball arc | - | ball whoosh, catch thump, kids cheer | Park | - |
-| 98 | 9:42-9:48 | Those ten kilometres were only ten steps after all. | All kids, Om | celebrating | Camera rises on 6 kids playing together | - | music swell | Park wide | crane up |
+| 98 | 9:42-9:48 | Those ten kilometers were only ten steps after all. | All kids, Om | celebrating | Camera rises on 6 kids playing together | - | music swell | Park wide | crane up |
 | 99 | 9:48-9:53 | If you know a parent with an Om at home, send this to them. | - | - | Share arrow icon | "Send this to a parent" | pop | Plain | - |
 | 100 | 9:53-10:00 | And if you'd like a separate video on the liking gap in adults, tell me in the comments. | Om | happy, waving | Comment bubble icon, then hold for end screen | "Tell me in the comments" | pop, music out | Plain | end screen (keep the right 40% clear for end-screen elements) |
 
@@ -183,7 +183,7 @@ Motion: bounce in, shake, zoom punch, slow push-in, thought bubble pop, split sc
 - Lower third, centred, Nunito 800, 60px, black `#1A1A1A` with a 4px off-white stroke. Max 2 lines, max ~6 words per line.
 - Key words turn amber `#F08C00` with a small scale pop. Rejection words turn red `#E03131`.
 - **Amber words:** hi, ten steps, temperament, slow to warm up, liking gap, sociometer, mirror, secure base, attempt, okay as I am
-- **Red words:** ten kilometres, shy, risk, we don't want you, rejection, verdict, loop, rejection sensitivity
+- **Red words:** ten kilometers, shy, risk, we don't want you, rejection, verdict, loop, rejection sensitivity
 - When a researcher card is on screen and overlaps the captions, move the captions to the top third.
 
 ## 7. Audio plan
@@ -191,7 +191,7 @@ Motion: bounce in, shake, zoom punch, slow push-in, thought bubble pop, split sc
 **Voiceover**
 - English, warm, calm, mid-low voice, like a parent telling a story. About 130-135 words per minute, slower than a typical explainer.
 - Generate with /hyperframes-media TTS, or record it yourself and drop it in as `assets/vo.wav`.
-- Pauses (marked `(pause)` in the handoff script), 0.8-1.2s each: after "ten kilometres" (hook), after "Am I good enough?", after "walks back to the bench", after "turned themselves down", before "Back at the park", and after "only ten steps after all".
+- Pauses (marked `(pause)` in the handoff script), 0.8-1.2s each: after "ten kilometers" (hook), after "Am I good enough?", after "walks back to the bench", after "turned themselves down", before "Back at the park", and after "only ten steps after all".
 - Caption timing: transcribe the final VO, or force-align it to the known script for cleaner word timings.
 
 **Music**

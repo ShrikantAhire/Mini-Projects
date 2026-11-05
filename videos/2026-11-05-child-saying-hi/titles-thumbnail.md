@@ -4,7 +4,7 @@
 
 | # | Title | Pattern | Score |
 |---|---|---|---|
-| 1 | **10 Steps Felt Like 10 Kilometres: A Shy Kid's Mind** | Number / curiosity | **94** |
+| 1 | **10 Steps Felt Like 10 Kilometers: A Shy Kid's Mind** | Number / curiosity | **94** |
 | 2 | Why Your Child Won't Join Other Kids | Second person | 91 |
 | 3 | Why Is Saying "Hi" So Hard for Kids? | Question | 89 |
 | 4 | The Liking Gap: Why Kids Think They're Less Liked | Named concept + payoff | 89 |
@@ -17,7 +17,7 @@
 
 ## Thumbnail concepts
 
-### A (recommended): ten steps or ten kilometres
+### A (recommended): ten steps or ten kilometers
 - **Pose and face:** Om stands by the bench, eyes huge and panicked, sweat drop on his forehead, both hands twisting the hem of his T-shirt.
 - **Scene:** far to the right, five tiny kids playing ball. A long red measuring tape stretches between them and Om.
 - **Text:** "JUST SAY HI?" (3 words)
