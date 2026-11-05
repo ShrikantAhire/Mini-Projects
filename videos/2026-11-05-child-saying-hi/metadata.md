@@ -80,25 +80,13 @@ Use "Best for viewer" until the channel has a related video. The video's closing
 
 ---
 
-## Shorts cuts (9:16)
+## Shorts (9:16)
 
-### Short 1: The liking gap in kids
-- **Clip:** 3:48-4:38 (about 50s) plus a new 4s hook = ~54s
-- **New hook (re-voice):** "From about age five, kids think other kids like them less than they really do."
-- **Title:** Kids Think They're Less Liked Than They Are
-- **Reframe:** stack the two gauges vertically above the two stickmen, timeline runs top to bottom, captions centred.
+Full scripts, visuals and a HyperFrames prompt are in `shorts-scripts.md`. Each Short has its own voiceover and reuses scenes from the main video.
 
-### Short 2: The rejection loop
-- **Clip:** 5:32-6:00 (about 28s) plus a new 4s hook = ~32s
-- **New hook (re-voice):** "This is how the fear of rejection makes itself come true."
-- **Title:** The Loop That Keeps Shy Kids on the Sidelines
-- **Reframe:** loop diagram fills the frame, Om sits in the centre of the circle, final "NO" sign shot as a close-up. End on the freeze frame so it loops back to the hook.
-
-### Short 3: Stop calling your child shy
-- **Clip:** 7:44-8:02 (drop the label) + 8:35-8:53 (praise the attempt) = ~36s plus a new 3s hook = ~39s
-- **New hook (re-voice):** "Calling your child shy can make it stick. Try this."
-- **Title:** Two Things to Say to a Shy Child
-- **Reframe:** each tip as a full-screen card, then the scene below it. Captions centred.
+1. **Kids Think They're Less Liked Than They Are** (~55s, the liking gap)
+2. **The Loop That Keeps Shy Kids on the Sidelines** (~55s, the rejection loop)
+3. **Two Things to Say to a Shy Child** (~43s, the label and praising the attempt)
 
 ---
 
