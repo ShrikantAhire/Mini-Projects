@@ -23,7 +23,7 @@ NEXT EPISODE: Episode 2, "The Two Voices in Your Head". A harsh voice on its own
 Comment below: what's your one hard thing for tomorrow?
 
 Sources:
-- Harrison et al. (2012), Superior memory and higher cortical volumes in unusually successful cognitive aging, and Sun et al. (2016), Youthful brains in older adults, Journal of Neuroscience (Massachusetts General Hospital superager research)
+- Sun et al. (2016), Youthful brains in older adults: preserved neuroanatomy in the default mode and salience networks contributes to youthful memory in superaging, Journal of Neuroscience (Massachusetts General Hospital)
 - Touroutoglou, Andreano, Dickerson & Barrett (2020), The tenacious brain, Cortex
 - Salamone and colleagues, research on dopamine and effort in rats (1990s onward)
 - Lally et al. (2010), How are habits formed, European Journal of Social Psychology
