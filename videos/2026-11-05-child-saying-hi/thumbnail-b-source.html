@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@800;900&display=block" rel="stylesheet">
+<style>html,body{margin:0;padding:0;width:1280px;height:720px;overflow:hidden;background:#F1E9DF}
+text{font-family:'Nunito',sans-serif}</style></head><body>
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6EFE6"/><stop offset="1" stop-color="#EADFD2"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C3CDD6"/><stop offset="1" stop-color="#97A5B2"/></linearGradient>
+ <filter id="fogblur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+ <filter id="mist" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+ <clipPath id="glassclip"><rect x="462" y="112" width="256" height="496" rx="110"/></clipPath>
+</defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<rect y="662" width="1280" height="58" fill="#DFD1C1"/>
+<line x1="0" y1="662" x2="1280" y2="662" stroke="#CDBBA7" stroke-width="4"/>
+
+<!-- mirror stand + frame -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M500 630 L470 664" fill="none"/><path d="M680 630 L710 664" fill="none"/>
+ <rect x="440" y="90" width="300" height="540" rx="130" fill="#7D8A96"/>
+ <rect x="462" y="112" width="256" height="496" rx="110" fill="url(#glass)" stroke-width="6"/>
+</g>
+
+<!-- reflection: tiny grey Om, foggy -->
+<g clip-path="url(#glassclip)">
+ <g transform="translate(590 595) scale(1.35) translate(-590 -595)" filter="url(#fogblur)" stroke="#5F6872" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+  <path d="M582 548 L574 590 M598 548 L606 590" fill="none"/>
+  <path d="M570 492 L610 492 L622 512 L612 518 L608 510 L610 550 L570 550 L572 510 L568 518 L558 512 Z" fill="#9AA3AC"/>
+  <path d="M574 510 Q568 530 572 548 M606 510 Q612 530 608 548" fill="none"/>
+  <line x1="590" y1="476" x2="590" y2="492"/>
+  <circle cx="590" cy="448" r="30" fill="#C9D0D6"/>
+  <circle cx="580" cy="448" r="3.5" fill="#5F6872" stroke="none"/><circle cx="600" cy="448" r="3.5" fill="#5F6872" stroke="none"/>
+  <path d="M580 466 Q590 458 600 466" fill="none" stroke-width="3.5"/>
+  <path d="M572 436 L584 432 M596 432 L608 436" fill="none" stroke-width="3"/>
+ </g>
+ <!-- fog patches -->
+ <g filter="url(#mist)" fill="#FFFFFF" opacity="0.75">
+  <ellipse cx="520" cy="200" rx="90" ry="60"/>
+  <ellipse cx="660" cy="300" rx="80" ry="70"/>
+  <ellipse cx="530" cy="390" rx="70" ry="50"/>
+  <ellipse cx="680" cy="520" rx="70" ry="60"/>
+  <ellipse cx="500" cy="560" rx="60" ry="40"/>
+ </g>
+ <!-- glint -->
+ <path d="M495 170 L540 130 M500 205 L560 152" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.7"/>
+</g>
+
+<!-- Om (real) -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M205 540 L190 658" fill="none"/><path d="M250 540 L262 658" fill="none"/>
+ <path d="M190 658 L165 662" fill="none"/><path d="M262 658 L288 662" fill="none"/>
+ <path d="M180 382 L275 382 L318 436 L288 455 L276 432 L280 545 L176 545 L180 432 L168 455 L138 436 Z" fill="#F08C00"/>
+ <!-- left arm hanging, right arm reaching to the mirror -->
+ <path d="M152 446 Q150 500 168 540" fill="none"/><circle cx="170" cy="548" r="14" fill="#FAF7F2"/>
+ <path d="M304 445 Q370 430 428 390" fill="none"/><circle cx="436" cy="386" r="15" fill="#FAF7F2"/>
+ <line x1="228" y1="356" x2="228" y2="382"/>
+ <circle cx="230" cy="250" r="106" fill="#FAF7F2"/>
+ <path d="M210 146 L196 106" fill="none"/><path d="M232 144 L238 100" fill="none"/><path d="M254 147 L276 110" fill="none"/>
+ <circle cx="214" cy="250" r="32" fill="#FFFFFF" stroke-width="6"/>
+ <circle cx="290" cy="250" r="32" fill="#FFFFFF" stroke-width="6"/>
+ <circle cx="234" cy="252" r="9" fill="#1A1A1A" stroke="none"/>
+ <circle cx="310" cy="252" r="9" fill="#1A1A1A" stroke="none"/>
+ <path d="M178 208 L230 188" fill="none" stroke-width="8"/>
+ <path d="M268 188 L322 206" fill="none" stroke-width="8"/>
+ <path d="M228 312 q8 -9 16 0 t16 0 t16 0 t16 0" fill="none" stroke-width="7"/>
+ <path d="M338 168 q-15 25 0 33 q15 -8 0 -33 Z" fill="#74C0FC" stroke-width="5"/>
+</g>
+
+<!-- headline -->
+<text id="t1" x="1010" y="300" text-anchor="middle" font-size="118" font-weight="900" fill="#1A1A1A" letter-spacing="-3">AM I</text>
+<text id="t2" x="1010" y="445" text-anchor="middle" font-size="130" font-weight="900" fill="#F08C00" stroke="#1A1A1A" stroke-width="11" paint-order="stroke" stroke-linejoin="round" letter-spacing="-3">ENOUGH?</text>
+</svg>
+<script>
+// fit ENOUGH? into the right column (x 770-1250)
+document.fonts.ready.then(()=>{const t=document.getElementById('t2');let fs=130;
+ while(t.getBBox().width>470&&fs>60){fs-=2;t.setAttribute('font-size',fs);} document.body.dataset.fs=fs;});
+</script></body></html>
