@@ -1,4 +1,4 @@
-# Psych Tunes: Why Discipline Feels Hard (Rewritten Script)
+# Why Discipline Feels Hard (Rewritten Script)
 
 **Recommended title:** Why Discipline Is Easy for Them and Hard for You (49 chars)
 
@@ -133,7 +133,7 @@ VISUAL: Old book with the James quote. Callback to the opening shot: same dark b
 [13:55-14:20] CTA
 VO: Tell me in the comments which of the five is your missing piece, and your day-one dread number.
 VO: If you know someone who's been fighting themselves at six a.m. and blaming their character, send them this. They don't need another pep talk. They need to know it's conditioning.
-VO: Subscribe to Psych Tunes for more on the hidden machinery of the mind. Next week: [NEXT VIDEO TOPIC]. See you then.
+VO: Subscribe to [YOUR CHANNEL NAME] for more psychology you can use the same day. Next week: [NEXT VIDEO TOPIC]. See you then.
 VISUAL: Five icons line up for the comment prompt. A share arrow flies to a second stickman asleep under a snoozed alarm. End screen with next-video slot and subscribe button.
 
 ---
