@@ -105,7 +105,7 @@ VO: The cost: you have to plan when you feel fine, which is when you least feel 
 VISUAL: Number "4". Two doors: "QUIET ROOM" and "PARTY ROOM". The disciplined stickman walks into the quiet one. Split scene: calm Sunday stickman moves a charger to the kitchen; tired Thursday stickman reaches for the phone, finds nothing, and shrugs. Gym bag goes into a car boot. App icon dragged into a bin.
 
 [11:00-11:55] FIX 5: END ON A WIN
-VO: Five. Never end on failure. This one repairs the damage from Part 5.
+VO: Five. Never end on failure. This one repairs the damage from those forced sessions.
 VO: In 1993, Daniel Kahneman and his colleagues had people hold a hand in painfully cold water for 60 seconds. In another trial, they did the same 60 seconds and then kept the hand in for 30 more while the water warmed slightly. Asked which trial to repeat, most people picked the longer one. The ending shaped the memory more than the total pain.
 VO: Your sessions work the same way. So don't stop at the worst moment. If your last set failed, do one easy set after it. If the writing went badly, finish one short paragraph you're happy with, then close the laptop.
 VO: Tonight: decide your "last easy rep". One easy set, one clean sentence, one small task you always close with.
@@ -115,13 +115,13 @@ VISUAL: Number "5". Stickman with hand in an ice bucket, shivering; a thermomete
 VO: Now take the task you picked earlier and run this seven-day test.
 VO: Tonight, rate from one to ten how much you dread starting it. Write the number down.
 VO: Days one to three: do the two-minute version, mark the calendar, keep the reward exclusive, end on your easy rep.
-VO: Day four is when you'll want to skip. Do the two-minute version anyway and mark the X. That's the day this video was saved for, so come back and watch the five fixes again.
+VO: Day four is when you'll want to skip. Do the two-minute version anyway and mark the calendar. That's the day this video was saved for, so come back and watch the five fixes again.
 VO: Day seven: rate your dread again. You're not looking for zero. You're looking for the number to move.
 VO: Put both numbers in the comments. I read them, and I'll pick the most interesting ones for a follow-up video.
 VISUAL: A 7-day calendar fills in. A dread meter at "8". Days 1 to 3 get X's. Day 4 flashes red with the bookmark icon from the opening. Day 7: the meter drops to "6". Comment bubble: "Day 1: 8. Day 7: 6."
 
 [12:50-13:25] WHAT ACTUALLY CHANGES
-VO: The task doesn't get lighter. A 5 km run is still 5 km. What changes is the talk you have with yourself before you start. The bag by the door stops being a question you answer every evening.
+VO: The task doesn't get lighter. A five-kilometre run is still five kilometres. What changes is the talk you have with yourself before you start. The bag by the door stops being a question you answer every evening.
 VO: Over time, effort starts to feel like something you know. Regular runners often feel a bit off on the days they don't run.
 VISUAL: Stickman runs past a "5 km" sign, still sweating. Inside his head, a tiny stickman holding a "Should I?" sign puts it down and walks off. On a rest day, the stickman sits restless on the couch, glancing at his running shoes.
 
