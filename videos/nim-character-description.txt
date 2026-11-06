@@ -1,0 +1,15 @@
+Nim is a simple hand-drawn stickman, the main character of a faceless psychology channel. Nim is an ordinary person trying to be a little better than yesterday's version of themselves. Nim makes mistakes, has off days, and keeps showing up anyway.
+
+Look: Nim is drawn with thick, smooth, rounded black lines of even weight, about 6px at 1080p, on a clean off-white background (#F7F5F0). The head is a perfect white-filled circle, slightly large for the body, which makes Nim feel friendly and approachable. One small curl of hair sits on top of the head and bounces when Nim moves. The body is a single straight line, with simple line arms and legs ending in small rounded tips, no hands or feet detail. Nim wears one item only: a mustard-yellow scarf (#E5B53A) wrapped once around the neck with two short ends. The scarf is Nim's signature and must appear in every frame. Nim has no other clothing, colours, logos or accessories unless a prop is needed for the scene.
+
+Face: two large oval black eyes with small white highlights, two thick expressive eyebrows, and a simple single-line mouth. No nose, no ears. Almost all emotion comes from the eyebrows and eyes. Nim's default expression is calm and slightly tired, with soft eyebrows and a small neutral mouth, like someone at the end of a normal day.
+
+Expressions: hopeful (raised eyebrows, small smile), determined (eyebrows angled down, mouth tight), tired (half-closed eyes, drooping eyebrows), guilty (eyes looking away, mouth wobbly), frustrated (eyebrows pinched, small scribble cloud above head), surprised (wide eyes, round mouth), proud but humble (closed-eye smile, slight nod), relieved (exhale puff from mouth).
+
+Body language: Nim moves in a light, slightly bouncy way. When low, Nim slumps, shoulders drop, and the scarf ends hang limp. When motivated, Nim stands tall and the scarf ends lift and flutter. When trying something hard, Nim leans forward with small effort lines around the body. Nim often glances back at a faint, semi-transparent grey outline of yesterday's Nim standing a step behind. Nim never fights that outline. Nim just takes one small step past it.
+
+Personality: honest, warm, a bit unsure of themselves, and stubbornly persistent. Nim fails often and in very relatable ways: skipping the gym, scrolling too long, putting things off. Nim never gives up for good. Nim celebrates tiny wins with small gestures, like a little fist pump, ticking a box on a paper calendar, or a satisfied nod, never big dramatic celebrations.
+
+Core idea: every scene shows one small step forward, even on a bad day. Nim does not compare themselves to other people, only to who they were yesterday.
+
+Consistency rules: same proportions, line weight, scarf colour and hair curl in every scene. Keep backgrounds minimal, with one or two flat props at most. No realistic textures, shading, gradients or 3D. Nim should look like the same character in every video, instantly recognisable even as a small thumbnail.
