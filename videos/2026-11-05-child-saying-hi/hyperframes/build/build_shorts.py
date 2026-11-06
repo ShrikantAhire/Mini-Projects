@@ -1,23 +1,24 @@
 import json, os, re, shutil, subprocess, importlib, sys
 from frame import Sc, js
-from shorts_spec import SHORTS
+SPEC=os.environ.get('SPEC','shorts_spec'); OUTDIR=os.environ.get('OUTDIR','shorts')
+SHORTS=importlib.import_module(SPEC).SHORTS
 SFXDIR=os.path.abspath("../.claude/skills/media-use/audio/assets/sfx")
 SC={}
 for m in ("scenes1","scenes2","scenes3","scenes4","scenes5"): SC.update(importlib.import_module(m).SC)
-LEAD=0.3; TAIL=1.2
+LEAD=0.3; TAIL=float(os.environ.get('TAIL','1.2'))
 WIN_TOP=600; SCALE=0.6; WIN_H=int(1080*SCALE); LEFT=int((1080-1920*SCALE)/2)
 AMBERW={"hi","steps","temperament","liking","gap","sociometer","mirror","secure","base","attempt","warm","loop"}
 REDW={"kilometers","shy","risk","rejection","verdict","sensitivity","reject"}
 only=sys.argv[1:] or list(SHORTS)
 for name in only:
-    sp=SHORTS[name]; P=os.path.abspath(f"../shorts/{name}")
+    sp=SHORTS[name]; P=os.path.abspath(f"../{OUTDIR}/{name}")
     os.makedirs(f"{P}/compositions",exist_ok=True); os.makedirs(f"{P}/assets/sfx",exist_ok=True)
     for f in ("package.json","hyperframes.json","meta.json"):
         if os.path.exists(f"../project/{f}") and not os.path.exists(f"{P}/{f}"): shutil.copy(f"../project/{f}",f"{P}/{f}")
     shutil.copy("../project/assets/gsap.min.js",f"{P}/assets/gsap.min.js")
-    src=f"el/{name}.mp3"
+    src=f"el/{name}.wav" if os.path.exists(f"el/{name}.wav") else f"el/{name}.mp3"
     if os.path.exists(src):
-        subprocess.check_call(["ffmpeg","-v","error","-y","-i",src,"-af",f"adelay={int(LEAD*1000)}:all=1,loudnorm=I=-14:TP=-1.5:LRA=11","-ar","44100",f"{P}/assets/vo.wav"])
+        subprocess.check_call(["ffmpeg","-v","error","-y","-i",src,"-af",f"adelay={int(LEAD*1000)}:all=1,loudnorm=I=-14:TP=-1.5:LRA=11","-ar","44100","-ac","1",f"{P}/assets/vo.wav"])
         audio_ok=True
     else:
         subprocess.check_call(["ffmpeg","-v","error","-y","-f","lavfi","-i","anullsrc=r=44100:cl=mono","-t",str(sp["dur"]+LEAD),f"{P}/assets/vo.wav"])
