@@ -300,7 +300,7 @@ def _(s):
     s.headroom()
     leo(s, 960, 1150, 2.6, ("neutral",), meter=0.35, meter_r=46)
     s.push(0, s.d, 1.2, 960, 760)
-    s.add(P.tag(s.id("t"), 960, 130, "Right now", AMBER, INK, 56)); s.pop("t", s.atw("right now"))
+    s.add(P.tag(s.id("t"), 960, 210, "Right now", AMBER, INK, 56)); s.pop("t", s.atw("right now"))
 
 # ================= FOR PARENTS AND TEACHERS
 def tipcard(s, n, txt):
@@ -339,7 +339,7 @@ def _(s):
     s.add(P.bubble(s.id("b1"), 800, 420, 420, 110, "You're perfect", 50, tail=(560, 560)))
     s.pop("b1", t1)
     s.ft("b1", {"x": 0, "y": 0, "rotation": 0}, {"x": 160, "y": -260, "rotation": -25, "opacity": 0}, t1 + 1.6, 0.7, "power2.in")
-    s.add(P.tag(s.id("x"), 1280, 300, "slides right off", "#FFFFFF", RED, 40)); s.pop("x", t1 + 1.6)
+    s.add(P.tag(s.id("x"), 1200, 280, "slides right off", "#FFFFFF", RED, 40)); s.pop("x", t1 + 1.6)
     s.fadeout("x", s.atw("\"You kept") - 0.2)
     t2 = s.atw("\"You kept")
     s.add(P.bubble(s.id("b2"), 820, 420, 660, 110, "You kept practicing", 50, tail=(560, 560)))
@@ -358,7 +358,7 @@ def _(s):
     maya(s, 1400, 860, 1.0, ("embarrassed", "happy"))
     s.add(P.bubble(s.id("b"), 760, 380, 520, 120, "Rabbit teeth!", 60, tail=(1250, 500)))
     s.pop("b", 0.3)
-    s.add(P.xmark(s.id("x"), 760, 380, 2.4)); s.pop("x", s.atw("no jokes") + 0.4)
+    s.add(f'<line id="{s.id("x")}" x1="520" y1="380" x2="1000" y2="380" stroke="{RED}" stroke-width="12" stroke-linecap="round"/>'); s.draw("x", s.atw("no jokes") + 0.4, 0.5, 500)
     for i, w in enumerate(["height", "teeth", "weight", "hair"]):
         s.add(P.tag(s.id(f"w{i}"), 340 + i * 280, 640, w, "#FFFFFF", INK, 44)); s.pop(f"w{i}", s.atw(w, -0.1))
     t = s.atw("At this age")
@@ -468,9 +468,9 @@ def _(s):
 def _(s):
     s.lunchroom()
     leo(s, 620, 980, 1.5, ("sad",), ("carry",), meter=0.45, extra=P.tray(s.id("tray"), 0, -150))
-    hud(s, 0.45, 0.04, s.at(0.3), 1400, 480, 230)
+    hud(s, 0.45, 0.04, s.at(0.3), 1320, 520, 230)
     s.needle("leo", 0.45, 0.04, s.at(0.3), 1.0)
-    s.add(P.tag(s.id("lw"), 1400, 760, "Lowest all week", "#FFFFFF", RED, 48)); s.pop("lw", s.at(0.6))
+    s.add(P.tag(s.id("lw"), 1320, 790, "Lowest all week", "#FFFFFF", RED, 48)); s.pop("lw", s.at(0.6))
     s.sfx("impact-bass-2", s.at(0.3), 0.3)
 
 @scene(81)

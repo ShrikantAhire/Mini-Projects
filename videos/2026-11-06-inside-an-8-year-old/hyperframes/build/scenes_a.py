@@ -20,7 +20,7 @@ def _(s):
 def _(s):
     s.bathroom()
     s.add(P.mirror(s.id("mir"), 1500, 470, 360, 560))
-    s.add('<g opacity="0.75">'); leo(s, 1500, 760, 0.62, ("happy",), name="refl", flip=True); s.add('</g>')
+    s.add('<g opacity="0.75">'); leo(s, 1500, 735, 0.8, ("happy",), name="refl", flip=True); s.add('</g>')
     s.set("refl", {"opacity": 0}, 0)
     leo(s, 300, 860, 1.05, ("happy",), ("stand",), WALK, look=(8, 0))
     s.walk("leo", s.at(0.15), s.vd * 0.45, 0, 870)
@@ -196,9 +196,9 @@ def _(s):
 
 def photo_rows(s, leo_expr=("happy",), meter=0.85, maya_expr=("tight",)):
     s.photo_room()
-    for i, x in enumerate([700, 900, 1100, 1300]):
+    for i, x in enumerate([800, 1000, 1200, 1400]):
         kid(s, f"b{i}", x, 700, 0.85, ("happy",), cap=["#7048E8", "#0CA678", "#E8590C", "#1C7ED6"][i], girl=(i == 1))
-    mason(s, 1500, 700, 0.85, ("happy",))
+    mason(s, 590, 700, 0.85, ("happy",))
     leo(s, 560, 900, 0.82, leo_expr, meter=meter)
     for i, x in enumerate([760, 960, 1160, 1360]):
         if i == 1: maya(s, x, 900, 0.86, maya_expr)
@@ -217,12 +217,12 @@ def _(s):
 @scene(16)
 def _(s):
     photo_rows(s, ("neutral",), 0.72, ("neutral",))
-    s.cam(0, s.vd * 0.4, {"scale": 1.4, "transformOrigin": "1500px 450px"}, {"scale": 1.4}, "none")
-    s.add(P.tag(s.id("m"), 1500, 210, "Mason", "#FFFFFF", INK, 48)); s.pop("m", s.atw("is Mason"))
-    s.add(P.arrow(s.id("up"), 1700, 700, 1700, 330, GREEN, 12)); s.fadein("up", s.atw("grew over"))
-    s.add(P.tag(s.id("ld"), 560, 430, "Leo didn't", "#FFFFFF", RED, 44))
+    s.cam(0, s.vd * 0.4, {"scale": 1.4, "transformOrigin": "600px 450px"}, {"scale": 1.4}, "none")
+    s.add(P.tag(s.id("m"), 600, 210, "Mason", "#FFFFFF", INK, 48)); s.pop("m", s.atw("is Mason"))
+    s.add(P.arrow(s.id("up"), 420, 690, 420, 330, GREEN, 12)); s.fadein("up", s.atw("grew over"))
+    s.add(P.tag(s.id("ld"), 300, 780, "Leo didn't", "#FFFFFF", RED, 44))
     t = s.atw("Leo didn't")
-    s.cam(t - 0.3, 0.7, {"scale": 1.4, "transformOrigin": "1500px 450px"}, {"scale": 1.0}, "power2.inOut")
+    s.cam(t - 0.3, 0.7, {"scale": 1.4, "transformOrigin": "600px 450px"}, {"scale": 1.0}, "power2.inOut")
     s.pop("ld", t + 0.3)
 
 @scene(17)
@@ -248,8 +248,8 @@ def _(s):
 def _(s):
     photo_rows(s, ("happy",), 0.6, ("tight",))
     s.push(0, s.vd * 0.6, 1.5, 900, 640)
-    s.add(P.arrow(s.id("ar"), 1160, 330, 990, 470, RED, 10)); s.fadein("ar", s.atw("Maya"))
-    s.add(P.tag(s.id("m"), 1200, 290, "Maya", "#FFFFFF", INK, 44)); s.pop("m", s.atw("Maya"))
+    s.add(P.arrow(s.id("ar"), 1180, 520, 1020, 610, RED, 10)); s.fadein("ar", s.atw("Maya"))
+    s.add(P.tag(s.id("m"), 1230, 470, "Maya", "#FFFFFF", INK, 44)); s.pop("m", s.atw("Maya"))
 
 @scene(20)
 def _(s):
@@ -277,7 +277,7 @@ def _(s):
 def _(s):
     s.bathroom()
     for i, (x, sc) in enumerate([(500, 0.8), (960, 1.0), (1420, 0.8)]):
-        s.add(P.mirror(s.id(f"m{i}"), x, 480, 300 * sc, 460 * sc))
+        s.add(P.mirror(s.id(f"m{i}"), x, 380, 300 * sc, 420 * sc))
         s.pop(f"m{i}", s.at(0.05) + i * 0.3)
     maya(s, 960, 980, 1.05, ("worried",), ("think",))
     s.add(P.tag(s.id("t"), 960, 150, "Not over for Maya", "#FFFFFF", RED, 48)); s.pop("t", 0.1)
@@ -321,7 +321,7 @@ def _(s):
     s.walk("carter", 0.1, s.vd * 0.8, 0, 1100)
     for i, x in enumerate([560, 960, 1360]):
         flatpaper(s, f"p{i}", x)
-        s.ft(f"p{i}", {"y": -500, "opacity": 0, "rotation": -30}, {"y": 0, "opacity": 1, "rotation": 0}, s.at(0.3) + i * 0.3, 0.5, "power2.out")
+        s.ft(f"p{i}", {"x": -260, "y": -40, "opacity": 0}, {"x": 0, "y": 0, "opacity": 1}, s.at(0.3) + i * 0.3, 0.5, "power2.out")
     s.sfx("whoosh-short", s.at(0.3), 0.2)
 
 @scene(27)
