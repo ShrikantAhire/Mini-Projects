@@ -19,10 +19,11 @@
 **VO:**
 Leo turned eight on a Tuesday.
 He woke up early, ran to the bathroom mirror, and checked whether he looked any older.
-He didn't. Same hair sticking up at the back. Same gap where his front tooth used to be.
+He didn't look any different, with the same hair sticking up at the back and the same gap where his front tooth used to be.
 But something had changed, and it wasn't anything Leo could see in a mirror. It was happening inside his head.
 
-This is Inside an 8-Year-Old's Mind. Over three episodes, we'll follow Leo through one ordinary week of school, and we'll see it the way he sees it.
+This is Inside an 8-Year-Old's Mind.
+Over three episodes, we'll follow Leo through one ordinary week of school, and we'll see it the way he sees it.
 If you have a child around this age, you'll recognize a lot of it. If you teach eight-year-olds, you'll recognize the whole classroom. And if you were ever eight yourself, this story is partly yours.
 
 Episode one: Am I good enough?
