@@ -9,7 +9,7 @@
 | 5 | clip5-mirror.mp4 | part5-cover.png |
 
 **Instagram:** paste the caption, then post the first comment (question and hashtags) yourself right after publishing.
-**Facebook:** use the same caption, change "Link in bio" to "Full video in the first comment", and add `#parenting #childpsychology #shykids` at the end. Then post the first comment with your YouTube link and the question.
+**Facebook:** use the same caption, change "Link in bio" to "Link in the first comment", and add `#parenting #childpsychology #shykids` at the end. Then post the first comment with your YouTube link and the question.
 
 ---
 
@@ -26,7 +26,7 @@ If your child hangs back at the park or at a party, they aren't being difficult.
 
 Part 2 is next: why kids think they're less liked than they really are.
 
-Like this if it felt familiar, share it with a parent who needs it, and follow so you don't miss Part 2. Full video: link in bio.
+Like this if it felt familiar, share it with a parent who needs it, and follow so you don't miss Part 2. Watch the full video on my YouTube channel, Before You Begin. Link in bio.
 ```
 **First comment:**
 ```
@@ -51,7 +51,7 @@ So when your child says "nobody likes me," it's often a guess that leans against
 
 Missed Part 1? It's on our page. Part 3 is next: how the fear of rejection can make itself come true.
 
-Like this if it helped, share it with a parent who needs it, and follow so you don't miss Part 3. Full video: link in bio.
+Like this if it helped, share it with a parent who needs it, and follow so you don't miss Part 3. Watch the full video on my YouTube channel, Before You Begin. Link in bio.
 
 Source: Wolf, Nafe & Tomasello (2021), Psychological Science.
 ```
@@ -78,7 +78,7 @@ It works like a loop. A child expects rejection and hangs back. The other kids r
 
 How do parents break the loop? That's Part 4. Missed Parts 1 and 2? They're on our page.
 
-Like this if it made sense, share it with a parent who needs it, and follow so you don't miss Part 4. Full video: link in bio.
+Like this if it made sense, share it with a parent who needs it, and follow so you don't miss Part 4. Watch the full video on my YouTube channel, Before You Begin. Link in bio.
 
 Source: Downey et al. (1998), Child Development.
 ```
@@ -105,7 +105,7 @@ Part 4 of 5: 3 things to do for a shy child.
 
 Save this for the next playdate. Missed Parts 1 to 3? They're on our page. Part 5 is next, and it's the last one: why a friendly smile can look like teasing to a child.
 
-Like this if it helped, share it with a parent who needs it, and follow so you don't miss Part 5. Full video: link in bio.
+Like this if it helped, share it with a parent who needs it, and follow so you don't miss Part 5. Watch the full video on my YouTube channel, Before You Begin. Link in bio.
 
 This is education, not diagnosis. If your child's fear is intense or affects daily life, talk to a child psychologist.
 ```
@@ -130,7 +130,7 @@ A young child can't clear that mirror alone. That job starts at home. Psychologi
 
 Kids who feel that kind of love are more willing to go out and explore, because they know there's a safe place to come back to. Attachment researchers call this a secure base.
 
-That's the end of this series. Missed a part? All 5 are on our page, and the full video is linked in bio.
+That's the end of this series. Missed a part? All 5 are on our page, and the full video is on my YouTube channel, Before You Begin. Link in bio.
 
 Like this if it helped, share it with a parent who needs it, and follow for our next series: Inside an 8-Year-Old's Mind.
 ```
