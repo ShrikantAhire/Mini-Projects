@@ -30,6 +30,13 @@ Part 2 is next: why kids think they're less liked than they really are. Subscrib
 shy kids, shy child, child psychology, why is my child shy, shy kid at the park, how to help a shy child, parenting tips, child development, kids making friends, psychology explained, stickman animation, a shy kid's mind, before you begin
 ```
 
+**Pinned comment:**
+```
+Were you ever the kid standing by the bench? What finally helped you walk over?
+
+Watch the full video on my channel, Before You Begin: [link]
+```
+
 ---
 
 ## Part 2 (clip2-liking.mp4)
@@ -51,6 +58,13 @@ Source: Wolf, Nafe & Tomasello (2021), Psychological Science.
 **Tags:**
 ```
 liking gap, liking gap in children, child psychology, shy kids, my child thinks nobody likes them, kids self esteem, confidence for kids, parenting tips, child development, psychology explained, stickman animation, a shy kid's mind, before you begin
+```
+
+**Pinned comment:**
+```
+Did you ever assume someone didn't like you, and find out later you were wrong?
+
+Watch the full video on my channel, Before You Begin: [link]
 ```
 
 ---
@@ -76,6 +90,13 @@ Source: Downey et al. (1998), Child Development.
 rejection sensitivity, fear of rejection, rejection sensitivity in kids, child psychology, shy kids, kids feeling left out, kids friendship problems, parenting tips, child development, psychology explained, stickman animation, a shy kid's mind, before you begin
 ```
 
+**Pinned comment:**
+```
+Which step of this loop do you recognize most, in your child or in yourself?
+
+Watch the full video on my channel, Before You Begin: [link]
+```
+
 ---
 
 ## Part 4 (clip4-parents.mp4)
@@ -99,6 +120,13 @@ This is education, not diagnosis. If your child's fear is intense, talk to a chi
 how to help a shy child, shy child, shy kids, how to build confidence in kids, raising confident kids, confidence for kids, parenting tips, gentle parenting, child psychology, child development, stickman animation, a shy kid's mind, before you begin
 ```
 
+**Pinned comment:**
+```
+Which of these three will you try first?
+
+Watch the full video on my channel, Before You Begin: [link]
+```
+
 ---
 
 ## Part 5 (clip5-mirror.mp4)
@@ -119,4 +147,10 @@ That's the end of this series. Next on the channel: Inside an 8-Year-Old's Mind.
 **Tags:**
 ```
 secure base, unconditional positive regard, child self esteem, self esteem for kids, child psychology, shy kids, parenting tips, gentle parenting, attachment, child development, stickman animation, a shy kid's mind, before you begin
+```
+**Pinned comment:**
+```
+What made you feel safe enough to try new things as a kid?
+
+Watch the full video on my channel, Before You Begin: [link]
 ```
