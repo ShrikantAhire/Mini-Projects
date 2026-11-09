@@ -1,0 +1,74 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@800;900&display=block" rel="stylesheet">
+<style>html,body{margin:0;padding:0;width:1280px;height:720px;overflow:hidden;background:#FBD5DC}
+text{font-family:'Nunito',sans-serif}</style></head><body>
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FCDDE3"/><stop offset="1" stop-color="#F7C2CC"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<!-- floor -->
+<rect y="676" width="1280" height="44" fill="#EEA9B6"/>
+<line x1="0" y1="676" x2="1280" y2="676" stroke="#D98C9B" stroke-width="4"/>
+
+<!-- balloons -->
+<g stroke="#1A1A1A" stroke-width="5" stroke-linejoin="round">
+ <path d="M1165 400 Q1150 470 1175 540" fill="none" stroke-width="3"/>
+ <path d="M1215 380 Q1230 460 1200 540" fill="none" stroke-width="3"/>
+ <path d="M1125 430 Q1140 490 1185 540" fill="none" stroke-width="3"/>
+ <ellipse cx="1165" cy="355" rx="42" ry="50" fill="#E03131"/>
+ <ellipse cx="1222" cy="335" rx="40" ry="48" fill="#F08C00"/>
+ <ellipse cx="1118" cy="390" rx="38" ry="46" fill="#0CA678"/>
+</g>
+
+<!-- far kids (faded) -->
+<g id="kids" opacity="0.55" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"></g>
+
+<!-- Om (behind Mom) -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M505 600 L495 676" fill="none"/><path d="M540 600 L552 676" fill="none"/>
+ <path d="M495 676 L472 678" fill="none"/><path d="M552 676 L576 678" fill="none"/>
+ <path d="M460 492 L560 492 L585 540 L562 552 L555 535 L558 605 L462 605 Z" fill="#F08C00"/>
+ <line x1="512" y1="470" x2="512" y2="492"/>
+ <circle cx="512" cy="385" r="95" fill="#FAF7F2"/>
+ <path d="M520 292 L530 252" fill="none"/><path d="M548 300 L575 266" fill="none"/>
+ <circle cx="530" cy="378" r="40" fill="#FFFFFF" stroke-width="6"/>
+ <circle cx="550" cy="374" r="11" fill="#1A1A1A" stroke="none"/>
+ <path d="M486 320 Q522 292 566 316" fill="none" stroke-width="8"/>
+ <path d="M470 448 q9 -10 18 0 t18 0 t18 0" fill="none" stroke-width="7"/>
+ <path d="M612 300 q-15 25 0 33 q15 -8 0 -33 Z" fill="#74C0FC" stroke-width="5"/>
+</g>
+
+<!-- Mom (cropped at the top): dress, legs, pointing arm -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M300 640 L295 676" fill="none"/><path d="M385 640 L392 676" fill="none"/>
+ <path d="M295 676 L268 678" fill="none"/><path d="M392 676 L420 678" fill="none"/>
+ <path d="M265 -20 L405 -20 L478 640 L195 640 Z" fill="#1C3D5A"/>
+ <path d="M420 -10 Q450 120 462 250" fill="none"/>
+ <circle cx="463" cy="262" r="15" fill="#FAF7F2"/>
+</g>
+
+<!-- Om's hand gripping the dress -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M490 520 L462 492" fill="none"/>
+ <circle cx="456" cy="486" r="16" fill="#FAF7F2"/>
+</g>
+
+<!-- speech bubble -->
+<g stroke="#1A1A1A" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+ <path d="M690 100 L340 -20 L690 176 Z" fill="#FFFFFF"/>
+ <rect x="650" y="40" width="590" height="200" rx="46" fill="#FFFFFF"/>
+ <rect x="642" y="96" width="20" height="48" fill="#FFFFFF" stroke="none"/>
+</g>
+<text x="945" y="183" text-anchor="middle" font-size="118" font-weight="900" fill="#1A1A1A" letter-spacing="-2">GO PLAY!</text>
+</svg>
+<script>
+const NS='http://www.w3.org/2000/svg';
+function el(t,a,p){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);p.appendChild(e);return e;}
+const kids=document.getElementById('kids');const caps=['#E03131','#1C7ED6','#2F9E44'];
+[930,985,1040].forEach((x,i)=>{const fy=676,hy=fy-82;const g=el('g',{},kids);
+ el('circle',{cx:x,cy:hy,r:13,fill:'#FAF7F2'},g);
+ el('path',{d:`M${x-13} ${hy-4} A13 13 0 0 1 ${x+13} ${hy-4} Z`,fill:caps[i],stroke:'#1A1A1A','stroke-width':3},g);
+ el('line',{x1:x,y1:hy+13,x2:x,y2:fy-32},g);const s=i%2?1:-1;
+ el('path',{d:`M${x} ${hy+22} L${x-15*s} ${hy+38} M${x} ${hy+22} L${x+15*s} ${hy+10}`},g);
+ el('path',{d:`M${x} ${fy-32} L${x-13} ${fy} M${x} ${fy-32} L${x+14} ${fy-4}`},g);});
+el('circle',{cx:1010,cy:540,r:12,fill:'#FFD43B'},kids);
+</script></body></html>
