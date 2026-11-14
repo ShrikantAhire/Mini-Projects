@@ -19,11 +19,11 @@
   "current_batch": 0,
   "state": "working",
   "scene_status": {
-    "9": "pending",
-    "10": "pending",
+    "9": "redo",
+    "10": "redo",
     "11": "pending",
     "12": "pending"
   },
-  "notes": "Assigned by manager. Batch 1 approved to start.",
-  "updated_at": "2026-11-14T16:56:34.925472+00:00"
+  "notes": "Assigned by manager. Batch 1 approved to start.\nScene 9 done: Approved/Redo cards, ffprobe 1080,1920,75.\nScene 10 done: 12 tiles, first 2 checked, ffprobe 1080,1920,75. Batch 1 awaiting review.\nManager review: redo 9 (accent words, subtitle size) and 10 (text sizes).",
+  "updated_at": "2026-11-14T16:58:27.700151+00:00"
 }

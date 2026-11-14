@@ -16,14 +16,14 @@
       8
     ]
   ],
-  "current_batch": 0,
+  "current_batch": 1,
   "state": "working",
   "scene_status": {
-    "5": "pending",
-    "6": "pending",
+    "5": "done",
+    "6": "done",
     "7": "pending",
     "8": "pending"
   },
-  "notes": "Assigned by manager. Batch 1 approved to start.",
-  "updated_at": "2026-11-14T16:56:34.925391+00:00"
+  "notes": "Assigned by manager. Batch 1 approved to start.\nScene 5 done: 4 tiles, Batch A/B brackets, ffprobe 1080,1920,75.\nScene 6 done: JSON card pretty-printed over 5 lines, ffprobe 1080,1920,75. Batch 1 awaiting review.\nBatch 1 approved. Starting Batch 2 (scenes 7-8).",
+  "updated_at": "2026-11-14T16:58:27.093156+00:00"
 }
