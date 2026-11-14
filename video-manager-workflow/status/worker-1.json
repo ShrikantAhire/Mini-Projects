@@ -1,0 +1,29 @@
+{
+  "worker": 1,
+  "scenes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "batches": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "current_batch": 0,
+  "state": "working",
+  "scene_status": {
+    "1": "pending",
+    "2": "pending",
+    "3": "pending",
+    "4": "pending"
+  },
+  "notes": "Assigned by manager. Batch 1 approved to start.",
+  "updated_at": "2026-11-14T16:56:34.925146+00:00"
+}
