@@ -16,6 +16,7 @@ A 30-second vertical video that shows, step by step, the manager-worker workflow
 - Font: Inter (toolkit `font()`), monospace for file names and JSON (`mono()`).
 - Every scene calls `chrome(img, scene_no, t)`: it draws the scene counter and the 30-second progress bar so the cut feels continuous.
 - Headline: max 8 words, `font(96, "bold")` or smaller, left-aligned at `MARGIN`, top third of the frame.
+- Minimum text size 30 px for anything a viewer should read (added after batch 1 review). Pass `accent_words` without punctuation ("Pass", not "Pass:"), because the toolkit strips punctuation before matching.
 - One supporting visual per scene (file tree, cards, JSON, icons). Keep it in the middle third. Nothing inside 140 px of the bottom (platform UI).
 - Motion: elements ease in during the first 0.6 s, hold still for at least 1.2 s so they can be read. No flashing, no spinning.
 
