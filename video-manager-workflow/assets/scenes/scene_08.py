@@ -17,7 +17,7 @@ def draw(img, t):
         text(img, (x + cw // 2, 828 + dy), sub, mono(30), fill=MUTED, alpha=p, anchor="mm")
     dy, p = card(img, (MARGIN, 920, W - MARGIN, 1260), t, start=0.25)
     for i, (name, ts) in enumerate(ITEMS):
-        y = 990 + i * 100 + dy
+        y = 950 + i * 100 + dy
         x = MARGIN + 50
         a = prog(t, 0.35 + 0.1 * i, 0.4) * p
         circle(img, (x + 30, y + 30), 30, fill=None, outline=LINE, width=4, alpha=a)
