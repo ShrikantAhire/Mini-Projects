@@ -1,0 +1,29 @@
+{
+  "worker": 3,
+  "scenes": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "batches": [
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "current_batch": 1,
+  "state": "done",
+  "scene_status": {
+    "9": "done",
+    "10": "done",
+    "11": "done",
+    "12": "done"
+  },
+  "notes": "Assigned by manager. Batch 1 approved to start.\nScene 9 done: Approved/Redo cards, ffprobe 1080,1920,75.\nScene 10 done: 12 tiles, first 2 checked, ffprobe 1080,1920,75. Batch 1 awaiting review.\nManager review: redo 9 (accent words, subtitle size) and 10 (text sizes).\nRedo done: scene 9 accent words fixed, subtitles 32 px; scene 10 numbers 30 px, caption 36 px, tiles taller. ffprobe 1080,1920,75 both. Awaiting review.\nBatch 2 started.\nScene 11 done: tiles slide into bar by ~1.0s, final.mp4 / 0:30. Scene 12 done: closing card with underline. ffprobe 1080,1920,75 both. Batch 2 awaiting review.\nManager: batch 2 approved. All 4 scenes approved.",
+  "updated_at": "2026-11-14T17:00:04.515454+00:00"
+}

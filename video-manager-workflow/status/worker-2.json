@@ -1,0 +1,29 @@
+{
+  "worker": 2,
+  "scenes": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "batches": [
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "current_batch": 1,
+  "state": "done",
+  "scene_status": {
+    "5": "done",
+    "6": "done",
+    "7": "done",
+    "8": "done"
+  },
+  "notes": "Assigned by manager. Batch 1 approved to start.\nScene 5 done: 4 tiles, Batch A/B brackets, ffprobe 1080,1920,75.\nScene 6 done: JSON card pretty-printed over 5 lines, ffprobe 1080,1920,75. Batch 1 awaiting review.\nBatch 1 approved. Starting Batch 2 (scenes 7-8).\nScenes 5,6 re-rendered with 30px min text. Scene 7 done (static pause, subtle ring pulse). Scene 8 done (size 88, ticks by 1.3s). Batch 2 awaiting review.\nManager: batch 2 approved. Re-rendered 5-6 reviewed and accepted. All 4 scenes approved.",
+  "updated_at": "2026-11-14T17:01:02.538200+00:00"
+}

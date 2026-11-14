@@ -1,0 +1,29 @@
+{
+  "worker": 1,
+  "scenes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "batches": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "current_batch": 1,
+  "state": "done",
+  "scene_status": {
+    "1": "done",
+    "2": "done",
+    "3": "done",
+    "4": "done"
+  },
+  "notes": "Assigned by manager. Batch 1 approved to start.\nScene 1 done: ffprobe 1080,1920,75; frames checked.\nScene 2 done: ffprobe 1080,1920,75; frames checked. Batch 1 awaiting review.\nBatch 2 approved, started scenes 3-4.\nScene 3 done: 1080,1920,75; frames checked.\nScene 4 done: 1080,1920,75; frames checked. Batch 2 awaiting review.\nManager: batch 2 approved. All 4 scenes approved.",
+  "updated_at": "2026-11-14T16:59:36.716781+00:00"
+}
