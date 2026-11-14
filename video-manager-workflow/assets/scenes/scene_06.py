@@ -16,7 +16,7 @@ def draw(img, t):
     box = (MARGIN, 760, W - MARGIN, 1260)
     dy, p = card(img, box, t, start=0.1)
     f = mono(46, True)
-    text(img, (MARGIN + 44, 760 + 40 + dy), "status/worker-2.json", mono(28), fill=MUTED, alpha=p)
+    text(img, (MARGIN + 44, 760 + 40 + dy), "status/worker-2.json", mono(30), fill=MUTED, alpha=p)
     line(img, [(MARGIN + 44, 760 + 100 + dy), (W - MARGIN - 44, 760 + 100 + dy)], fill=LINE, width=2, alpha=p)
     for i, parts in enumerate(LINES):
         a = prog(t, 0.2 + 0.08 * i, 0.4)

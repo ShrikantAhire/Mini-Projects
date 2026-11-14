@@ -21,7 +21,7 @@ def draw(img, t):
         dy, p = card(img, (x, TOP, x + TILE, TOP + 250), t, start=s, outline=col)
         text(img, (x + TILE // 2, TOP + 125 + dy), f"{i + 5:02d}", font(72, "bold"),
              fill=INK, alpha=p, anchor="mm")
-        text(img, (x + TILE // 2, TOP + 200 + dy), "scene", mono(24), fill=MUTED, alpha=p, anchor="mm")
+        text(img, (x + TILE // 2, TOP + 200 + dy), "scene", mono(30), fill=MUTED, alpha=p, anchor="mm")
     for b, label in enumerate(("Batch A", "Batch B")):
         p = prog(t, 0.6 + 0.15 * b, 0.5)
         col = ACCENT if b == 0 else MUTED
