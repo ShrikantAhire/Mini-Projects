@@ -1,0 +1,80 @@
+[
+ [
+  "n1",
+  "am_michael",
+  "en-us",
+  "This man sells bananas in Mumbai. He takes digital payments all day, with no card machine and no fees."
+ ],
+ [
+  "n2",
+  "am_michael",
+  "en-us",
+  "So how did a country that ran on cash get here?"
+ ],
+ [
+  "n3",
+  "am_michael",
+  "en-us",
+  "In 2016, India paid for almost everything in cash."
+ ],
+ [
+  "c1",
+  "am_puck",
+  "en-us",
+  "Bhaiya, change for five hundred?"
+ ],
+ [
+  "v1",
+  "hm_omega",
+  "hi",
+  "साहब, केले बेचता हूँ, बैंक नहीं चलाता।"
+ ],
+ [
+  "n4",
+  "am_michael",
+  "en-us",
+  "Card machines cost money, and banks take a cut, so small shops said no."
+ ],
+ [
+  "n5",
+  "am_michael",
+  "en-us",
+  "That April, India's banks launched U P I. Any bank to any bank, by phone, in seconds, for free."
+ ],
+ [
+  "n6",
+  "am_michael",
+  "en-us",
+  "Hardly anyone used it. Then, on November eighth, India cancelled its five hundred and thousand rupee notes overnight."
+ ],
+ [
+  "n7",
+  "am_michael",
+  "en-us",
+  "About eighty six percent of India's cash stopped being money."
+ ],
+ [
+  "c2",
+  "hf_alpha",
+  "hi",
+  "अब पैसे कैसे दूँ?"
+ ],
+ [
+  "v2",
+  "hm_omega",
+  "hi",
+  "कोड स्कैन करो, दीदी।"
+ ],
+ [
+  "n8",
+  "am_michael",
+  "en-us",
+  "Suddenly, people had no choice. And a Q R code costs nothing to print."
+ ],
+ [
+  "n9",
+  "am_michael",
+  "en-us",
+  "Today, U P I handles more than twenty billion payments a month. And most of them start with a sticker like this one."
+ ]
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "key": "n1",
+  "start": 0.15,
+  "end": 7.298,
+  "text": "This man sells bananas in Mumbai. He takes digital payments all day, with no card machine and no fees.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "n2",
+  "start": 7.502,
+  "end": 10.059,
+  "text": "So how did a country that ran on cash get here?",
+  "voice": "am_michael"
+ },
+ {
+  "key": "n3",
+  "start": 10.502,
+  "end": 14.771,
+  "text": "In 2016, India paid for almost everything in cash.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "c1",
+  "start": 15.002,
+  "end": 16.491,
+  "text": "Bhaiya, change for five hundred?",
+  "voice": "am_puck"
+ },
+ {
+  "key": "v1",
+  "start": 16.802,
+  "end": 19.644,
+  "text": "साहब, केले बेचता हूँ, बैंक नहीं चलाता।",
+  "voice": "hm_omega"
+ },
+ {
+  "key": "n4",
+  "start": 20.102,
+  "end": 24.476,
+  "text": "Card machines cost money, and banks take a cut, so small shops said no.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "n5",
+  "start": 24.902,
+  "end": 31.236,
+  "text": "That April, India's banks launched U P I. Any bank to any bank, by phone, in seconds, for free.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "n6",
+  "start": 31.802,
+  "end": 39.407,
+  "text": "Hardly anyone used it. Then, on November eighth, India cancelled its five hundred and thousand rupee notes overnight.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "n7",
+  "start": 39.602,
+  "end": 42.745,
+  "text": "About eighty six percent of India's cash stopped being money.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "c2",
+  "start": 43.202,
+  "end": 44.706,
+  "text": "अब पैसे कैसे दूँ?",
+  "voice": "hf_alpha"
+ },
+ {
+  "key": "v2",
+  "start": 44.786,
+  "end": 46.3,
+  "text": "कोड स्कैन करो, दीदी।",
+  "voice": "hm_omega"
+ },
+ {
+  "key": "n8",
+  "start": 46.802,
+  "end": 51.432,
+  "text": "Suddenly, people had no choice. And a Q R code costs nothing to print.",
+  "voice": "am_michael"
+ },
+ {
+  "key": "n9",
+  "start": 51.902,
+  "end": 58.864,
+  "text": "Today, U P I handles more than twenty billion payments a month. And most of them start with a sticker like this one.",
+  "voice": "am_michael"
+ }
+]

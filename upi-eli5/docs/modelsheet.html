@@ -1,0 +1,27 @@
+<!doctype html><meta charset="utf-8"><style>
+@font-face{font-family:Display;src:url(../fonts/display.ttf)}@font-face{font-family:UI;src:url(../fonts/ui.ttf);font-weight:100 900}
+body{margin:0;background:#eef0f3}</style><canvas id="c" width="1920" height="1080"></canvas>
+<script type="module">
+import {C,person,cart,qr,phone,note,bank,tick,city} from '../art.js';
+await document.fonts.load('800 40px Display'); await document.fonts.load('800 40px UI');
+const ctx=document.getElementById('c').getContext('2d');
+ctx.fillStyle=C.paper;ctx.fillRect(0,0,1920,1080);
+const lab=(t,x,y)=>{ctx.fillStyle=C.ink;ctx.font='700 26px UI';ctx.textAlign='center';ctx.fillText(t,x,y)};
+ctx.font='60px Display';ctx.fillStyle=C.ink;ctx.textAlign='left';ctx.fillText('MODEL SHEET · UPI EXPLAINED LIKE YOU\'RE 5',60,80);
+// Raju poses
+person(ctx,'raju',170,560,0.78,{expr:'smile'}); lab('Raju · smile',170,600);
+person(ctx,'raju',400,560,0.78,{expr:'annoyed',arms:[[1.1,1.8],[1.1,1.8]]}); lab('shrug',400,600);
+person(ctx,'raju',630,560,0.78,{expr:'smug',arms:[[0.15,0.2],[1.6,0.4]],mouth:0.6}); lab('points, talking',630,600);
+// Arjun
+person(ctx,'arjun',880,560,0.78,{expr:'neutral',arms:[[0.15,0.2],[0.6,1.6]]}); lab('Arjun · offers note',880,600);
+person(ctx,'arjun',1100,560,0.78,{expr:'shock'}); lab('shock',1100,600);
+// Meena
+person(ctx,'meena',1330,560,0.78,{expr:'worried',mouth:0.5}); lab('Meena · worried',1330,600);
+person(ctx,'meena',1560,560,0.78,{expr:'smile',arms:[[0.15,0.2],[0.5,1.9]]}); lab('pays by phone',1560,600);
+person(ctx,'raju',1790,560,0.78,{expr:'smile',blink:1}); lab('blink',1790,600);
+// props
+cart(ctx,260,1040,0.75); qr(ctx,620,860,150); phone(ctx,800,860,1,0,(c)=>{tick(c,0,-10,34,1);c.fillStyle=C.ink;c.font='800 17px UI';c.textAlign='center';c.fillText('₹40 PAID',0,56)});
+note(ctx,1000,800,0.9,-0.1,500); note(ctx,1030,930,0.9,0.08,1000,{dead:1});
+bank(ctx,1300,1000,0.9,'BANK A'); bank(ctx,1560,1000,0.9,'BANK B');
+lab('cart · QR sticker · phone · generic notes · banks',1150,1060);
+</script>
