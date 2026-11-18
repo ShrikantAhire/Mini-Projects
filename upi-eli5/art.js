@@ -242,10 +242,10 @@ export function cart(ctx, x, y, s = 1, { qrGlow = 0, showQR = true, sign = true 
   const rnd = mulberry32(5);
   for (let i = 0; i < 6; i++) bananaBunch(ctx, -200 + i * 72, -205 - (i % 2) * 14, 0.95, -0.25 + (rnd() - 0.5) * 0.4);
   // canopy poles + roof
-  line(ctx, [[-215, -190], [-215, -430]], 10, C.ink); line(ctx, [[215, -190], [215, -430]], 10, C.ink);
-  ctx.beginPath(); ctx.moveTo(-260, -420); ctx.lineTo(260, -420); ctx.lineTo(230, -480); ctx.lineTo(-230, -480); ctx.closePath(); shape(ctx, '#c9b98f', 6);
-  for (let i = -3; i <= 3; i++) line(ctx, [[i * 70, -478], [i * 76, -422]], 3, '#a89772');
-  if (sign) { ctx.beginPath(); rrect(ctx, -110, -470, 220, 44, 8); shape(ctx, C.white, 4); ctx.fillStyle = C.ink; ctx.font = '800 26px UI'; ctx.textAlign = 'center'; ctx.fillText('RAJU FRUITS', 0, -439); }
+  line(ctx, [[-215, -190], [-215, -560]], 10, C.ink); line(ctx, [[215, -190], [215, -560]], 10, C.ink);
+  ctx.beginPath(); ctx.moveTo(-260, -550); ctx.lineTo(260, -550); ctx.lineTo(230, -610); ctx.lineTo(-230, -610); ctx.closePath(); shape(ctx, '#c9b98f', 6);
+  for (let i = -3; i <= 3; i++) line(ctx, [[i * 70, -608], [i * 76, -552]], 3, '#a89772');
+  if (sign) { ctx.beginPath(); rrect(ctx, -110, -602, 220, 44, 8); shape(ctx, C.white, 4); ctx.fillStyle = C.ink; ctx.font = '800 26px UI'; ctx.textAlign = 'center'; ctx.fillText('RAJU FRUITS', 0, -571); }
   if (showQR) qr(ctx, 150, -330, 110, { glow: qrGlow });
   ctx.restore();
 }
@@ -298,11 +298,11 @@ export function bank(ctx, x, y, s = 1, label = 'BANK') {
 // city backdrop: rows of blocky buildings, deterministic
 export function city(ctx, W, H, ground, { tint = 0, pan = 0, seed = 3 } = {}) {
   const sky = ctx.createLinearGradient(0, 0, 0, ground); sky.addColorStop(0, C.sky); sky.addColorStop(1, '#e3e7ec');
-  ctx.fillStyle = sky; ctx.fillRect(0, 0, W, ground);
+  ctx.fillStyle = sky; ctx.fillRect(-W, -H, W * 3, ground + H);
   for (const [row, col, hMin, hMax, par] of [[0, C.bldC, 380, 640, 0.3], [1, C.bldA, 260, 520, 0.6], [2, C.bldB, 180, 380, 1]]) {
-    let x = -200 - ((pan * par) % 260);
+    let x = -W - 200 - ((pan * par) % 260);
     let i = Math.floor((pan * par) / 260) * 7 + row * 101;
-    while (x < W + 200) {
+    while (x < 2 * W + 200) {
       const w = 160 + hash01(i, seed) * 160, h = hMin + hash01(i + 3, seed) * (hMax - hMin);
       ctx.fillStyle = col; ctx.fillRect(x, ground - h, w - 8, h);
       ctx.fillStyle = row === 2 ? C.win : 'rgba(111,123,137,.55)';
@@ -313,7 +313,7 @@ export function city(ctx, W, H, ground, { tint = 0, pan = 0, seed = 3 } = {}) {
       x += w; i++;
     }
   }
-  ctx.fillStyle = C.curb; ctx.fillRect(0, ground, W, 18);
-  ctx.fillStyle = '#b3b8be'; ctx.fillRect(0, ground + 18, W, H - ground - 18);
-  if (tint > 0) { ctx.fillStyle = `rgba(120,108,90,${0.35 * tint})`; ctx.fillRect(0, 0, W, H); }
+  ctx.fillStyle = C.curb; ctx.fillRect(-W, ground, W * 3, 18);
+  ctx.fillStyle = '#b3b8be'; ctx.fillRect(-W, ground + 18, W * 3, H * 2);
+  if (tint > 0) { ctx.fillStyle = `rgba(120,108,90,${0.35 * tint})`; ctx.fillRect(-W, -H, W * 3, H * 3); }
 }
